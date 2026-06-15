@@ -1,0 +1,46 @@
+{
+  "created_utc": "2026-06-15T12:54:57.104868Z",
+  "source_metadata_records_extracted": 1706,
+  "source_metadata_records_deduplicated": 1577,
+  "title_abstract_pool_rows": 802,
+  "record_level_screening_decision_rows": 802,
+  "final_primary_studies": 107,
+  "source_counts_raw": {
+    "ACM Digital Library": 174,
+    "IEEE Xplore": 231,
+    "ScienceDirect": 251,
+    "SpringerLink": 1050
+  },
+  "source_counts_deduplicated": {
+    "ACM Digital Library": 157,
+    "IEEE Xplore": 205,
+    "ScienceDirect": 228,
+    "SpringerLink": 987
+  },
+  "documented_screening_flow": [
+    {
+      "stage": "Initial retrieval",
+      "records_remaining": 4010
+    },
+    {
+      "stage": "Deduplication and short-paper filtering",
+      "records_remaining": 2406
+    },
+    {
+      "stage": "Title/abstract screening",
+      "records_remaining": 802
+    },
+    {
+      "stage": "Introduction/conclusion screening",
+      "records_remaining": 267
+    },
+    {
+      "stage": "Full-text assessment",
+      "records_remaining": 137
+    },
+    {
+      "stage": "Final primary studies",
+      "records_remaining": 107
+    }
+  ]
+}

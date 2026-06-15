@@ -1,0 +1,21 @@
+rences People ("fairness auditing" (
+h Res u Its ("fairness auditing" OR "fairness testing") AND ("implementation" 0... Q
+h
+191 Results for: [{All: "fairness auditing") OR [All: "fairness @ Edit Search [save Search]
+testing")] AND [[All: "implementation"] OR [All: "deployment"]]
+AND [E-Publication Date: (01/01/1996 TO 12/31/2025)]
+Searched The ACM Full-Text Collection (816,285 records)| Expand your search to The ACM Guide to Computing Literature (3,937,042 records
+Clear All
+RESULTS — VIDEOS Showing 1 - 20 of 191 Results
+Select All per page: 10 20 50. Recency v
+®
+2025
+RESEARCH-ARTICLE Causally Perturbed Fairness Testing
+FREE
+October 2025 Chengwen Du, @ Tao Chen
+~ ACM Transactions on Software Engineering and Methodology (TOSEM), Just Accepted
+_ . « https://doi.org/10.1145/3773088
+To mitigate unfair and unethical discrimination over sensitive features (e.g., gender, age, or race), fairness
+testing plays an integral role in engineering systems that leverage Al models to handle tabular data. A key
+challenge therein is how to ...
+990 W760) A Highlights v » B- OD om)

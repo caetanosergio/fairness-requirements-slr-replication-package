@@ -1,0 +1,81 @@
+--- OCR_REGION: full ---
+a
+acmegyprgzyal, Sec ey Ajou University | Browse | About | Signin Register
+Journals Magazines Proceedings Books SIGs Conferences People ("fairness representation" OR... | Q
+
+Sea rc h Res Uu Its ("fairness representation" OR "fairness formalization") AND ("algorith... Q
+h
+I Publication Date !) 31 Results for: [[All: "fairness representation"] OR [All: "fairness # Edit Search Q Save Search 3 RSS
+formalization"]] AND [[All: "algorithmic fairness") OR [All: "ai"'] <4
+r=]
+OR [All: social domains]] 8
+m= n> g
+Searched The ACM Full-Text Collection (816,285 records)| Expand your search to The ACM Guide to Computing Literature (3,937,042 records) fie
+1996 2025 a
+RESULTS VIDEOS Showing 1 - 20 of 31 Results
+Apply ——EEE
+Invalid start date: minimum value is
+2018 Select All per page: 10 20 50 Recency Vv
+I People RESEARCH-ARTICLE Fairness-Aware Classification over Incomplete Data
+July 2025
+Authors v a Xiaoye Miao, Lei Qiang, Guilin Huang, Yangyang Wu, Jianwei Yin
+SIGIR '25: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in
+Institutions v Information Retrieval e Pages 549-558 « https://doi.org/10.1145/3726302.3729975
+= The missing values widely existed in tabular data hinder the effective analysis of algorithmic fairness. Existing
+fairness intervention algorithms incorporate constraints or regularizers to reduce discrimination which rely on
+I Publications the complete information. ...
+Journal/Magazine v m0 na to7 A Highlights v ” °
+© Names
+All Publications VY RESFARCH-ARTICLE — Crshav Cantal Thyarte: A Dats aanteia AT Davenaatiza ww,
+CI] Es - (Gig e@ 8 13:06
+mm Q Search | al a & © & c) xq a & ead 11/17/2025
+
+--- OCR_REGION: content ---
+Pacers At Ajou University Browse About Sig
+Proceedings Books SIGs Conferences People ("fairness representat
+| ("fairness representation" OR "fairness formalization") AND (“algorith... Q
+I Publication Date {) 31 Results for: [[All: "fairness representation"] OR [All: "fairness ( # Edit Search )
+formalization"]] AND [[All: "algorithmic fairness"] OR [All: "ai"']
+OR [All: social domains]]
+Searched The ACM Full-Text Collection (816,285 records)|
+1996 2025
+Showing 1 - 20 of 31 Results
+Apply
+Invalid start date: minimum value is
+2018 Select All per page: 10 20 50. Recency Vv
+I People RESEARCH-ARTICLE
+uly 2025
+Authors v Xiaoye Miao Lei Qiang, Guilin Huang, Yangyang Wu, Jianwei Yin
+SIGIR '25: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in
+Institutions v Information Retrieval e Pages 549-558 e https://doi.org/10.1145/3726302.3729975
+= The missing values widely existed in tabular data hinder the effective analysis of algorithmic fairness. Existing
+fairness intervention algorithms incorporate constraints or regularizers to reduce discrimination which rely on
+I Publications the complete information. ...
+A Highlight
+Journal/Magazine Vv = menlients Vv ” ° Q
+Names
+nu tet
+
+--- OCR_REGION: results ---
+Conferences People ("fairness repres
+rc h Re S u | ts ("fairness representation" OR "fairness formalization") AND (“algorith... Q
+Advanced Search
+n Date {) 31 Results for: [[All: "fairness representation"] OR [All: "fairness Z Edit Search & Save Search 2 RSS
+formalization"]] AND [[All: “algorithmic fairness"] OR [All: "ai"']
+: OR [All: social domains]]
+eo a)
+Searched The ACM Full-Text Collection (816,285 records)| Expand your search to The ACM Guide to Computing Literature (3,937,042 records)
+2025
+RESULTS VIDEOS Showing 1 - 20 of 31 Results
+Apply =<
+ate: minimum value is
+Select All per page: 10 20 50 Recencyv
+RESEARCH-ARTICLE ~Fairness-Aware Classification over Incomplete Data
+July 2025
+Vv & Xiaoye Miao, Lei Qiang, Guilin Huang, Yangyang Wu, Jianwei Yin
+SIGIR '25: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in
+v Information Retrieval e Pages 549-558 e https://doi.org/10.1145/3726302.3729975
+= The missing values widely existed in tabular data hinder the effective analysis of algorithmic fairness. Existing
+fairness intervention algorithms incorporate constraints or regularizers to reduce discrimination which rely on
+ns the complete information. ...
+‘ine Vv y90 n71,017, A Highlights v ” °

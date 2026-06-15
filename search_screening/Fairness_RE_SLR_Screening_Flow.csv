@@ -1,0 +1,7 @@
+stage_id,screening_stage,stage_description,records_count,notes
+S01,Initial database retrieval,All records retrieved across database/source runs before cross-source deduplication and eligibility screening.,4010,Search-run evidence and source-summary counts.
+S02,After deduplication and <4-page exclusion,Records remaining after duplicate removal and exclusion of records under four pages/short papers where insufficient details were available for consistent coding.,2406,Boundary decision requested by reviewers; retained for audit trail.
+S03,Title/abstract screening,Records retained after title and abstract screening against inclusion/exclusion criteria.,802,Screening stage used to remove clearly out-of-scope items.
+S04,Introduction/conclusion screening,Records retained after inspection of introduction and conclusion for fairness/AI/requirements relevance.,267,Intermediate screening before full-text assessment.
+S05,Full-text assessment,Records assessed at full-text level and retained for quality assessment/coding eligibility checks.,137,Full-text assessment stage before final corpus.
+S06,Final primary studies,Final peer-reviewed primary studies included in the analytical corpus.,107,Final corpus used in manuscript analyses and RQ-level tables/figures.

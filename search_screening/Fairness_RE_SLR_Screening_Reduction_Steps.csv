@@ -1,0 +1,7 @@
+stage_order,stage,records_remaining,records_removed,main_reason
+1,Initial retrieval,4010,0,"Records retrieved from IEEE Xplore, ACM Digital Library, SpringerLink, ScienceDirect, and Google Scholar using the SLR search strings and date constraints."
+2,Deduplication and short-paper filtering,2406,1604,Duplicates and papers below the page-length criterion were removed.
+3,Title/abstract screening,802,1604,Clearly irrelevant records were removed after title/abstract inspection.
+4,Introduction/conclusion screening,267,535,Records not sufficiently related to fairness requirements or AI-based software systems were removed after introduction/conclusion inspection.
+5,Full-text assessment,137,130,Full texts were assessed against inclusion/exclusion criteria and quality requirements.
+6,Final primary studies,107,30,Final peer-reviewed primary studies retained for coding and synthesis after QA/final corpus boundary audit.

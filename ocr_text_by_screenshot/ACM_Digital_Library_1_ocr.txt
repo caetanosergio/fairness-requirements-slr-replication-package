@@ -1,0 +1,82 @@
+--- OCR_REGION: full ---
+y
+acm PISzTAL, omante Ajou University | Browse | About _ Signin Register
+Journals Magazines Proceedings Books SIGs Conferences People ("fairness definition" OR "fai... Q
+
+Sea rc h Re S u Its ("fairness definition" OR "fairness conceptualization") AND ("machine... Q,
+h
+I Applied Filters {) 321 Results for: [[All: "fairness definition"] OR [All: "fairness # Edit Search & Save Search
+conceptualization"]] AND [[All: "machine learning"] OR [All: "ai s
+1996 - 2025 @ systems"] OR [All: social domains]] AND [E- Publication Date: 8
+(01/01/1996 TO 12/31/2025)] E:
+Clear All Searched The ACM Full-Text Collection (816,285 records)| Expand your search to The ACM Guide to Computing Literature (3,937,042 records) A
+I Publication Date RESULTS VIDEOS Showing 1 - 20 of 321 Results
+210 20 50 Recency v
+=. Select All per page: 5 cy
+1996 2025
+RESEARCH-ARTICLE Performance Evaluation for Detecting and Alleviating Biases in Predictive Machine Learning
+OPEN ACCESS Models
+Apply June 2025 7
+& Utsab Khakurel, Ghada Abdelmoumin, Danda B. Rawat
+ACM Transactions on Probabilistic Machine Learning (TOPML), Volume 1, Issue 2 « Article No.: 12, Pages 1—
+| People 34 © https://doi.org/10.1145/3729 432
+Authors vy Machine Learning (ML) is widely used in various domains but is susceptible to biases that can lead to unfair
+decisions. Bias can arise from biased data, algorithms, or data collection processes, making it crucial to
+Institutions Vv develop methods that ensure fairness. ...
+(co) _ 991 471,102) A Highlights v ”» B-
+‘
+= iB on 8 13:04
+mm Q Search pS | & © & D qj ¢ Ce a & i 11/17/2025
+
+--- OCR_REGION: content ---
+Compu ahiey Ajou University Browse About Sig
+Proceedings Books SIGs Conferences People ("fairness definition’
+| ("fairness definition" OR "fairness conceptualization") AND ("machine... Q
+
+I Applied Filters {) 321 Results for: [[All: "fairness definition") OR [All: "fairness Z Edit Search
+
+conceptualization"]] AND [[All: "machine learning"] OR [All: "ai
+
+1996 - 2025 @ systems"] OR [All: social domains]] AND [E-Publication Date:
+
+(01/01/1996 TO 12/31/2025)]
+
+Searched The ACM Full-Text Collection (816,285 records)|
+I Publication Date Showing 1 - 20 of 321 Results
+
+Select All per page: 10 20 50 Recency v
+1996 2025
+RESEARCH-ARTICLE
+OPEN ACCESS
+Apply une 2025
+Utsab Khakurel Ghada Abdelmoumin Danda B. Rawat
+ACM Transactions on Probabilistic Machine Learning (TOPML), Volume 1, Issue 2 e Article No.: 12, Pages 1—
+| People 34 © https://doi.org/10.1145/3729432
+Authors Vv Machine Learning (ML) is widely used in various domains but is susceptible to biases that can lead to unfair
+decisions. Bias can arise from biased data, algorithms, or data collection processes, making it crucial to
+Institutions Vv develop methods that ensure fairness. ...
+_ A Highlights v 55 Bo oe ls | QO
+
+--- OCR_REGION: results ---
+Conferences People ("fairness defi
+rc h Re S u Its ("fairness definition" OR "fairness conceptualization") AND ("machine... Q
+Advanced Search
+Iters {) 321 Results for: [[All: "fairness definition") OR [All: "fairness # Edit Search & Save Search 3 RSS
+conceptualization"]] AND [[All: "machine learning"] OR [All: "ai
+5 O systems"] OR [All: social domains]] AND [E- Publication Date:
+(01/01/1996 TO 12/31/2025)]
+Clear All Searched The ACM Full-Text Collection (816,285 records)| Expand your search to The ACM Guide to Computing Literature (3,937,042 records)
+n Date RESULTS VIDEOS Showing 1 - 20 of 321 Results
+2 = 10 20 50 Recency v
+a Select All per page: 5 cy
+2025
+RESEARCH-ARTICLE Performance Evaluation for Detecting and Alleviating Biases in Predictive Machine Learning
+OPEN ACCESS Models
+Apply June 2025
+e Utsab Khakurel, Ghada Abdelmoumin, Danda B. Rawat
+ACM Transactions on Probabilistic Machine Learning (TOPML), Volume 1, Issue 2 e Article No.: 12, Pages 1—
+34  https://doi.org/10.1145/3729432
+Vv Machine Learning (ML) is widely used in various domains but is susceptible to biases that can lead to unfair
+decisions. Bias can arise from biased data, algorithms, or data collection processes, making it crucial to
+wv develop methods that ensure fairness. ...
+— ay 71,102) A Highlights v = mfp |

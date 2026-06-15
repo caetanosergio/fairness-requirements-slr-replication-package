@@ -1,0 +1,6 @@
+source_database,manuscript_initial_retrieval_count,metadata_records_extracted_from_attached_exports,deduplicated_metadata_records_from_attached_exports,metadata_format_in_attached_zip,notes
+IEEE Xplore,110,231,205,BibTeX,Metadata extracted from attached database export files.
+ACM Digital Library,634,174,157,BibTeX,Metadata extracted from attached database export files.
+SpringerLink,773,1050,987,CSV,Metadata extracted from attached database export files.
+ScienceDirect,1088,251,228,BibTeX,Metadata extracted from attached database export files.
+Google Scholar,1405,0,0,Screenshot evidence,Initial retrieval count follows manuscript/search log. Attached source exports provide bibliographic metadata for inspectable records; Google Scholar evidence is preserved as screenshots because Google Scholar does not export BibTeX/CSV in the uploaded zip.

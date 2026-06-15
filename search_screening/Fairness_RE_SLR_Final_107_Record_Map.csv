@@ -1,0 +1,108 @@
+final_study_id,year,domain,matched_source_record_id,matched_source_database,matched_source_file,matched_title,matched_authors,matched_doi,final_inclusion_status,coding_available,notes
+P001 - Pedreschi2008,2008,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P002 - Finkelstein2008,2008,General,SRCREC-0219,IEEE Xplore,IEEE Xplore/2. IEEE Xplore Citation BibTeX.bib,?€?Fairness Analysis?€? in Requirements Assignments,"Finkelstein, Anthony and Harman, Mark and Mansouri, S. Afshin and Ren, Jian and Zhang, Yuanyuan",10.1109/RE.2008.61,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P003 - Torralba2011,2008,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P004 - Dwork2012,2012,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P005 - Kamiran2012,2012,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P006 - Kamishima2012,2012,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P007 - Sweeney2013,2013,Hiring,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P008 - Zemel2013,2013,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P009 - Feldman2015,2015,Hiring,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P010 - Hardt2016,2016,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P011 - Zhang2016Causal,2016,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P012 - GrgicHlaca2016,2016,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P013 - BarocasSelbst2016,2016,Hiring,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P014 - Zafar2017a,2017,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P015 - Zafar2017b,2017,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P016 - Zafar2017c,2017,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P017 - GrgicHlaca2017Randomness,2017,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P018 - CorbettDavies2017,2017,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P019 - Galhotra2017,2017,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P020 - Kusner2017,2017,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P021 - Ensign2018,2018,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P022 - GrgicHlaca2018Procedural,2018,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P023 - Udeshi2018,2018,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P024 - Liu2018Delayed,2018,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P025 - Zhang2018Adversarial,2018,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P026 - Agarwal2018Reductions,2018,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P027 - Binns2018,2018,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P028 - Elzayn2019,2019,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P029 - Hu2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P030 - Milli2019,2019,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P031 - Ustun2019,2019,Healthcare,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P032 - Cotter2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P033 - Golz2019,2019,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P034 - Passi2019,2019,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P035 - Selbst2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P036 - Creager2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P037 - Zhang2019TKDE,2019,General,SRCREC-1127,SpringerLink,SpringerLink/7. SearchResults.csv,Co-Existence Analysis on Satellite-Terrestrial Integrated IMT System,Zhicheng QuZiwei LiuXiaojin DingHaotong CaoGengxin Zhang,10.1007/s11036-019-01337-0,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P038 - Wick2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P039 - Polyzotis2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P040 - Atwood2019,2019,Healthcare,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P041 - Foulds2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P042 - Fu2020,2020,Other,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P043 - DAmour2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P044 - Creager2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P045 - Mitchell2021,2021,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P046 - Vasudevan2020,2020,Other,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P047 - Schumann2021,2021,Other,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P048 - Krishnaswamy2021,2021,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P049 - Agarwal2021,2021,Other,SRCREC-0496,ScienceDirect,ScienceDirect/3. ScienceDirect.bib,Leveraging Blockchain Technology for Indian Healthcare system: An assessment using value-focused thinking approach,Rashmi G. Shukla and Anuja Agarwal and Vidhu Shekhar,https://doi.org/10.1016/j.hitech.2021.100415,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P050 - Yeom2021,2021,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P051 - Chen2021,2021,Hiring,SRCREC-0431,ScienceDirect,ScienceDirect/10. ScienceDirect.bib,Technical framework for wastewater-based epidemiology of SARS-CoV-2,Jinyong Wu and Zizheng Wang and Yufei Lin and Lihua Zhang and Jing Chen and Panyu Li and Wenbin Liu and Yabo Wang and Changhong Yao and Kun Yang,https://doi.org/10.1016/j.scitotenv.2021.148271,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P052 - Karkkainen2021,2021,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P053 - Zhao2023,2023,General,SRCREC-0432,ScienceDirect,ScienceDirect/10. ScienceDirect.bib,Influence of freeze?€?thaw cycles on mechanical properties of pervious concrete: From experimental studies to discrete element simulations,Hongkai Zhao and Qinglin Geng and Xiaoshuai Liu,https://doi.org/10.1016/j.conbuildmat.2023.133988,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P054 - Do2022,2022,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P055 - Baker2022,2022,Other,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P056 - Pradhan2022,2022,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P057 - Black2022,2022,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P058 - Mambreyan2022,2022,Other,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P059 - Kesgin2025,2025,Other,SRCREC-0870,SpringerLink,SpringerLink/6. SearchResults.csv,FairSYN-Edu a diffusion-based model for fair and private educational data synthesis,Kadir Kesgin,10.1007/s44217-025-00743-9,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P060 - Wang2022REVISE,2022,General,SRCREC-0109,ACM Digital Library,ACM Digital Library/5. acm.bib,Trustworthy AI: A Computational Perspective,"Liu, Haochen and Wang, Yiqi and Fan, Wenqi and Liu, Xiaorui and Li, Yaxin and Jain, Shaili and Liu, Yunhao and Jain, Anil and Tang, Jiliang",10.1145/3546872,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P061 - Ghai2023DBIAS,2023,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P062 ?- Qin2026Prune,2026,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P063 - Beutel2019PairwiseRecFair,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P064 - Merchant2023GNNTradeoffs,2023,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P065 - Liu2023,2023,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P066 - Zhang2023,2023,General,SRCREC-0016,ACM Digital Library,ACM Digital Library/10. acm.bib,Preventing Discriminatory Decision-making in Evolving Data Streams,"Wang, Zichong and Saxena, Nripsuta and Yu, Tongjia and Karki, Sneha and Zetty, Tyler and Haque, Israat and Zhou, Shan and Kc, Dukka and Stockwell, Ian and Wang, Xuyu and Bifet, Albert and Zhang, Wenbin",10.1145/3593013.3593984,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P067 - CorbettDavies2023MeasureMismeasure,2023,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P068 - Jung2024CounterfactuallyFairImages,2024,General,SRCREC-0347,IEEE Xplore,IEEE Xplore/7. IEEE Xplore Citation BibTeX.bib,Balancing Fairness and Accuracy for Predictive Models in Criminal Justice Applications Using Multi-Objective Optimization Methods,"Qi, Xiaowen and Ma, Yujungrong and Nakamura, Kiminori and Bhattacharyya, Shuvra S.",10.1109/SMC54092.2024.10831952,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P069 - Luo2024FairCLIP,2024,Healthcare,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P070 - Rateike2024LongTermPolicies,2024,Lending,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P071 - Blandin2024FairIRL,2024,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P072 - Han2024SFairGNN,2024,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P073 - Li2025PAMI (SFairGNN / structure fairness),2025,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P074 - Pham2025 (FAIREDU),2025,Other,SRCREC-0554,ScienceDirect,ScienceDirect/5. ScienceDirect.bib,Workplace security and privacy implications in the GenAI age: A survey,Abebe Diro and Shahriar Kaisar and Akanksha Saini and Samar Fatima and Pham Cong Hiep and Fikadu Erba,https://doi.org/10.1016/j.jisa.2024.103960,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P075 - Abbas2025 (SME lending; mixed-methods),2025,Lending,SRCREC-0255,IEEE Xplore,IEEE Xplore/3. IEEE Xplore Citation BibTeX.bib,Towards Human-AI Synergy in Requirements Engineering: A Framework and Preliminary Study,"Abbasi, Mateen Ahmed and Ihantola, Petri and Mikkonen, Tommi and M??kitalo, Niko",10.1109/IDSTA66210.2025.11202850,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P076 - Holstein2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P077 - Madaio2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P078 - Zhang2020,2020,General,SRCREC-0349,IEEE Xplore,IEEE Xplore/7. IEEE Xplore Citation BibTeX.bib,Research on Evaluation Methods of Decentralized and Centralized Operation Quality of Computer Networks,"Wang, Xiaoting and Liu, Xiangyang and Zhang, Bingpeng and Wu, Hao and Chen, Shuwen",10.1109/ITNEC48623.2020.9084686,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P079 - Sharma2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P080 - Aggarwal2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P081 - Bellamy2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P082 - Black2020FlipTest,2020,General,SRCREC-0703,SpringerLink,SpringerLink/10. SearchResults.csv,Signatures of microscopic black holes and extra dimensions at future neutrino telescopes,Katherine J. MackNingqiang SongAaron C. Vincent,10.1007/JHEP04(2020)187,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P083 - Li2025TOSEM,2025,Other,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P084 - Brun2018,2018,General,SRCREC-0050,ACM Digital Library,ACM Digital Library/2. acm.bib,Software fairness,"Brun, Yuriy and Meliou, Alexandra",10.1145/3236024.3264838,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P085 - Cleary1966,1966,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P086 - Sunstein1994,1994,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P087 - Anderson1999,1999,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P088 - Bertrand2004,2004,Hiring,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P089 - PerryZarsky2014,2015,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P090 - Fishkin2014,2014,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P091 - MetcalfMoss2019,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P092 - PrinceSchwarcz2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P093 - Hellman2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P094 - Bietti2020FAccT,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P095 - Biswas2023ICSE,2023,General,SRCREC-0040,ACM Digital Library,ACM Digital Library/2. acm.bib,ICSE '23: Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P096 - Chakraborty2020Fairway,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P097 - Kawamoto2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P098 - Li2024RUNNER,2024,General,SRCREC-0732,SpringerLink,SpringerLink/2. SearchResults.csv,Specification overfitting in artificial intelligence,Benjamin RothPedro Henrique Luz de AraujoYuxi XiaSaskia KaltenbrunnerChristoph Korab,10.1007/s10462-024-11040-6,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P099 - Monjezi2023,2023,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P100 - Zheng2022NeuronFair,2022,General,SRCREC-0404,IEEE Xplore,IEEE Xplore/9. IEEE Xplore Citation BibTeX.bib,A hierarchical structure of cyber-physical production systems based on heterogeneous multi-agent systems,"Fan, Jianjie and Yue, Liang and Zheng, Song",10.1109/CAC57257.2022.10055603,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P101 - Raji2022,2022,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P102 - Sharma2020,2020,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P103 - Pager2008,2008,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P104 - Chen2025TNNLS,2025,General,SRCREC-0116,ACM Digital Library,ACM Digital Library/6. acm.bib,Diversity Drives Fairness: Ensemble of Higher Order Mutants for Intersectional Fairness of Machine Learning Software,"Chen, Zhenpeng and Li, Xinyue and Zhang, Jie M. and Sarro, Federica and Liu, Yang",10.1109/ICSE55347.2025.00122,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P105 - Buolamwini2018,2018,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P106 - Borkan2019WWW,2019,General,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.
+P107 - Calmon2017NeurIPS,2017,Policing,,,,,,,included_final_primary_study,yes,Final corpus study; coding fields available in data/coded_csv and per-study notes.

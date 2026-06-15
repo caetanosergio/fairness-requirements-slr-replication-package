@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Fairness Requirements SLR Replication Package"
+message: "If you use this replication package, please cite the associated manuscript and repository."
+type: dataset
+authors:
+  - family-names: Caetano
+    given-names: Sergio Paulo
+  - family-names: Lee
+    given-names: Seok-Won
+repository-code: "INSERT_GITHUB_URL_HERE"
+date-released: "2026-06-15"
+version: "1.0-reviewer-revision"
+license: "License to be confirmed by authors"
+keywords:
+  - fairness requirements
+  - systematic literature review
+  - requirements engineering
+  - AI-based sociotechnical systems
+  - software engineering

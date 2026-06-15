@@ -1,0 +1,232 @@
+[
+  {
+    "path": "data/coded_csv/Data_Extraction.csv",
+    "rows": 110,
+    "cols": 65
+  },
+  {
+    "path": "data/coded_csv/Domain.csv",
+    "rows": 110,
+    "cols": 65
+  },
+  {
+    "path": "data/coded_csv/Papers_coded.csv",
+    "rows": 110,
+    "cols": 65
+  },
+  {
+    "path": "data/coded_csv/RQ1_levels.csv",
+    "rows": 107,
+    "cols": 65
+  },
+  {
+    "path": "data/coded_csv/RQ2_operationalization.csv",
+    "rows": 110,
+    "cols": 65
+  },
+  {
+    "path": "data/coded_csv/RQ3_overtime.csv",
+    "rows": 10,
+    "cols": 65
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_802_Record_Level_Screening_Decisions.csv",
+    "rows": 802,
+    "cols": 30
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_802_to_107_Screening_Flow.csv",
+    "rows": 5,
+    "cols": 7
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Coding_Pass_to_Final_Corpus_Audit.csv",
+    "rows": 110,
+    "cols": 8
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Final_107_Record_Map.csv",
+    "rows": 107,
+    "cols": 12
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Primary_Studies_107.csv",
+    "rows": 107,
+    "cols": 23
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Record_Level_Screening_Decisions.csv",
+    "rows": 802,
+    "cols": 30
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Screening_Flow.csv",
+    "rows": 6,
+    "cols": 5
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Screening_Reduction_Steps.csv",
+    "rows": 6,
+    "cols": 5
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv",
+    "rows": 8,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Search_Query_Set.csv",
+    "rows": 20,
+    "cols": 6
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Search_Runs.csv",
+    "rows": 5,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Search_Screenshot_Index.csv",
+    "rows": 100,
+    "cols": 9
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Search_Screenshot_Metadata_Extracted.csv",
+    "rows": 100,
+    "cols": 8
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Source_Database_Metadata_Deduplicated.csv",
+    "rows": 1577,
+    "cols": 21
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Source_Database_Metadata_Extracted.csv",
+    "rows": 1706,
+    "cols": 21
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Source_Metadata_Counts.csv",
+    "rows": 5,
+    "cols": 6
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Source_Metadata_Examples.csv",
+    "rows": 40,
+    "cols": 9
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR_Title_Abstract_Screening_Metadata_802.csv",
+    "rows": 802,
+    "cols": 25
+  },
+  {
+    "path": "data/search_screening/Fairness_RE_SLR__Screening_Search_Log.csv",
+    "rows": 118,
+    "cols": 16
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/ACM_Digital_Library_visible_metadata_extracted.csv",
+    "rows": 1,
+    "cols": 14
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/ACM_records.csv",
+    "rows": 634,
+    "cols": 11
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/Google_Scholar_records.csv",
+    "rows": 1405,
+    "cols": 11
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/Google_Scholar_visible_metadata_extracted.csv",
+    "rows": 6,
+    "cols": 14
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/IEEE_Xplore_records.csv",
+    "rows": 110,
+    "cols": 11
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/IEEE_Xplore_visible_metadata_extracted.csv",
+    "rows": 1,
+    "cols": 14
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/ScienceDirect_records.csv",
+    "rows": 1088,
+    "cols": 11
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/ScienceDirect_visible_metadata_extracted.csv",
+    "rows": 4,
+    "cols": 14
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/SpringerLink_records.csv",
+    "rows": 773,
+    "cols": 11
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/SpringerLink_visible_metadata_extracted.csv",
+    "rows": 2,
+    "cols": 14
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/1. SearchResults.csv",
+    "rows": 10,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/10. SearchResults.csv",
+    "rows": 59,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/2. SearchResults.csv",
+    "rows": 31,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/3. SearchResults.csv",
+    "rows": 31,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/4. SearchResults.csv",
+    "rows": 19,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/5. SearchResults.csv",
+    "rows": 42,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/6. SearchResults.csv",
+    "rows": 100,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/7. SearchResults.csv",
+    "rows": 266,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/8. SearchResults.csv",
+    "rows": 488,
+    "cols": 10
+  },
+  {
+    "path": "data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/9. SearchResults.csv",
+    "rows": 4,
+    "cols": 10
+  },
+  {
+    "path": "metadata/FILE_MANIFEST.csv",
+    "rows": 242,
+    "cols": 2
+  }
+]

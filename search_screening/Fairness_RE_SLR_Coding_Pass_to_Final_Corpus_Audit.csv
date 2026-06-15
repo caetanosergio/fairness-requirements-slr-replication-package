@@ -1,0 +1,111 @@
+Study ID,Study,Citation,Year,QA pass,QA score,in_final_107_corpus,audit_note
+P001,P001 - Pedreschi2008,Pedreschi2008,2008,Pass,7,Yes,Included in final 107-study analytical corpus.
+P009,P009 - Feldman2015,Feldman2015,2015,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P008,P008 - Zemel2013,Zemel2013,2013,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P005,P005 - Kamiran2012,Kamiran2012,2012,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P007,P007 - Sweeney2013,Sweeney2013,2013,Pass,9,Yes,Included in final 107-study analytical corpus.
+P010,P010 - Hardt2016,Hardt2016,2016,Pass,10,Yes,Included in final 107-study analytical corpus.
+P002,P002 - Finkelstein2008,Finkelstein2008,2008,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P003,P003 - Torralba2011,Torralba2011,2008,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P006,P006 - Kamishima2012,Kamishima2012,2012,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P004,P004 - Dwork2012,Dwork2012,2012,Pass,9,Yes,Included in final 107-study analytical corpus.
+P017,P017 - GrgicHlaca2017Randomness,GrgicHlaca2017Randomness,2017,Pass,9,Yes,Included in final 107-study analytical corpus.
+P018,P018 - CorbettDavies2017,CorbettDavies2017,2017,Pass,10,Yes,Included in final 107-study analytical corpus.
+P020,P020 - Kusner2017,Kusner2017,2017,Pass,10,Yes,Included in final 107-study analytical corpus.
+P011,P011 -  Zhang2016Causal,Zhang2016Causal,2016,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P013,P013 - BarocasSelbst2016,BarocasSelbst2016,2016,Pass,9,Yes,Included in final 107-study analytical corpus.
+P014,P014 - Zafar2017a,Zafar2017a,2017,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P019,P019 - Galhotra2017,Galhotra2017,2017,Pass,9,Yes,Included in final 107-study analytical corpus.
+P012,P012 - GrgicHlaca2016,GrgicHlaca2016,2016,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P016,P016 - Zafar2017c,Zafar2017c,2017,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P015,P015 - Zafar2017b,Zafar2017b,2017,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P025,P025 - Zhang2018Adversarial,Zhang2018Adversarial,2018,Pass,8.5,No,Present in broader coding-pass export but not present in final 107-study analytical corpus file; retained for transparency/auditability.
+P026,P026 - Agarwal2018Reductions,Agarwal2018Reductions,2018,Pass,8.5,No,Present in broader coding-pass export but not present in final 107-study analytical corpus file; retained for transparency/auditability.
+P028,P028 - Elzayn2019,Elzayn2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P021,P021 - Ensign2018,Ensign2018,2018,Pass,8,Yes,Included in final 107-study analytical corpus.
+P030,P030 - Milli2019,Milli2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P029,P029 - Hu2019,Hu2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P022,P022 - GrgicHlaca2018Procedural,GrgicHlaca2018Procedural,2018,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P024,P024 - Liu2018Delayed,Liu2018Delayed,2018,Pass,8.5,No,Present in broader coding-pass export but not present in final 107-study analytical corpus file; retained for transparency/auditability.
+P027,P027 - Binns2018,Binns2018,2018,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P023,P023 - Udeshi2018,Udeshi2018,2018,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P034,P034 - Passi2019,Passi2019,2019,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P031,P031 - Ustun2019,Ustun2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P032,P032 - Cotter2019,Cotter2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P038,P038 - Wick2019,Wick2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P033,P033 - Golz2019,Golz2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P035,P035 - Selbst2019,Selbst2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P037,P037 - Zhang2019TKDE,Zhang2019TKDE,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P039,P039 - Polyzotis2019,Polyzotis2019,2019,Pass,8,Yes,Included in final 107-study analytical corpus.
+P036,P036 - Creager2019,Creager2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P041,P041 - Foulds2020,Foulds2020,2020,Pass,9,Yes,Included in final 107-study analytical corpus.
+P049,P049 - Agarwal2021,Agarwal2021,2021,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P047,P047 - Schumann2021,Schumann2021,2021,Pass,10,Yes,Included in final 107-study analytical corpus.
+P043,P043 - DAmour2020,DAmour2020,2020,Pass,9,Yes,Included in final 107-study analytical corpus.
+P046,P046 - Vasudevan2020,Vasudevan2020,2020,Pass,10,Yes,Included in final 107-study analytical corpus.
+P044,P044 - Creager2020,Creager2020,2020,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P042,P042 - Fu2020,Fu2020,2020,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P045,P045 - Mitchell2021,Mitchell2021,2021,Pass,10,Yes,Included in final 107-study analytical corpus.
+P048,P048 - Krishnaswamy2021,Krishnaswamy2021,2021,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P040,P040 - Atwood2019,Atwood2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P057,P057 - Black2022,Black2022,2022,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P058,P058 - Mambreyan2022,Mambreyan2022,2022,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P056,P056 - Pradhan2022,Pradhan2022,2022,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P052,P052 - Karkkainen2021,Karkkainen2021,2021,Pass,9,Yes,Included in final 107-study analytical corpus.
+P054,P054 - Do2022,Do2022,2022,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P059,P059 - Kesgin2025,Kesgin2025,2025,Pass,9,Yes,Included in final 107-study analytical corpus.
+P051,P051 - Chen2021,Chen2021,2021,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P050,P050 - Yeom2021,Yeom2021,2021,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P055,P055 - Baker2022,Baker2022,2022,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P053,P053 - Zhao2023,Zhao2023,2023,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P066,P066 - Zhang2023,Zhang2023,2023,Pass,4.5,Yes,Included in final 107-study analytical corpus.
+P068,P068 - Jung2024CounterfactuallyFairImages,Jung2024CounterfactuallyFairImages,2024,Pass,10,Yes,Included in final 107-study analytical corpus.
+P065,P065 - Liu2023,Liu2023,2023,Pass,6.5,Yes,Included in final 107-study analytical corpus.
+P060,P060 - Wang2022REVISE,Wang2022REVISE,2022,Pass,9,Yes,Included in final 107-study analytical corpus.
+P063,P063 - Beutel2019PairwiseRecFair,Beutel2019PairwiseRecFair,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P062,P062 - Qin2026Prune,qin2026prune,2026,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P064,P064 - Merchant2023GNNTradeoffs,Merchant2023GNNTradeoffs,2023,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P061,P061 - Ghai2023DBIAS,Ghai2023DBIAS,2023,Pass,10,Yes,Included in final 107-study analytical corpus.
+P067,P067 - CorbettDavies2023MeasureMismeasure,CorbettDavies2023MeasureMismeasure,2023,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P076,P076 - Holstein2019,Holstein2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P075,P075 - Abbas2025 (SME lending; mixed-methods),Abbas2025LendingByAlgorithm,2025,Pass,8,Yes,Included in final 107-study analytical corpus.
+P069,P069 - Luo2024FairCLIP,Luo2024FairCLIP,2024,Pass,9,Yes,Included in final 107-study analytical corpus.
+P077,P077 - Madaio2020,Madaio2020,2020,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P070,P070 - Rateike2024LongTermPolicies,Rateike2024LongTermPolicies,2024,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P072,P072 - Han2024SFairGNN,Han2024SFairGNN,2024,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P074,P074 - Pham2025 (FAIREDU),Pham2025FAIREDU,2025,Pass,8,Yes,Included in final 107-study analytical corpus.
+P071,P071 - Blandin2024FairIRL,Blandin2024FairIRL,2024,Pass,10,Yes,Included in final 107-study analytical corpus.
+P078,P078 - Zhang2020,Zhang2020,2020,Pass,8,Yes,Included in final 107-study analytical corpus.
+P073,P073 - Li2025PAMI (SFairGNN / structure fairness),Li2025PAMI,2025,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P079,P079 - Sharma2019,Sharma2019,2019,Pass,8,Yes,Included in final 107-study analytical corpus.
+P083,P083 - Li2025TOSEM,Li2025TOSEM,2025,Pass,9,Yes,Included in final 107-study analytical corpus.
+P087,P087 - Anderson1999,Anderson1999,1999,Pass,6.5,Yes,Included in final 107-study analytical corpus.
+P080,P080 - Aggarwal2019,Aggarwal2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P088,P088 - Bertrand2004,Bertrand2004,2004,Pass,9,Yes,Included in final 107-study analytical corpus.
+P084,P084 - Brun2018,Brun2018,2018,Pass,7,Yes,Included in final 107-study analytical corpus.
+P082,P082 - Black2020FlipTest,Black2020FlipTest,2020,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P085,P085 - Cleary1966,Cleary1966,1966,Pass,6.5,Yes,Included in final 107-study analytical corpus.
+P086,P086 - Sunstein1994,Sunstein1994,1994,Pass,6.5,Yes,Included in final 107-study analytical corpus.
+P081,P081 - Bellamy2019,Bellamy2019,2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P089,P089 - PerryZarsky2014,PerryZarsky2014,2015,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P091,P091 - MetcalfMoss2019,MetcalfMoss2019,2019,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P095,P095 - Biswas2023ICSE,"Biswas, Sumon, and Hridesh Rajan. ""Fairify: Fairness Verification of Neural Networks."" In 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), 1546?€?1558. 2023. https://doi.org/10.1109/ICSE48619.2023.00134",2023,Pass,9.5,Yes,Included in final 107-study analytical corpus.
+P090,P090 - Fishkin2014,Fishkin2014,2014,Pass,6.5,Yes,Included in final 107-study analytical corpus.
+P096,P096 - Chakraborty2020Fairway,"Chakraborty, Joymallya, Suvodeep Majumder, Zhe Yu, and Tim Menzies. ""Fairway: A Way to Build Fair ML Software."" In Proceedings of the 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE '20), 654?€?665. Virtual Event, USA, Nov 8?€?13, 2020. ACM. https://doi.org/10.1145/3368089.3409697",2020,Pass,9,Yes,Included in final 107-study analytical corpus.
+P093,P093 - Hellman2020,"Hellman, Deborah. ""Measuring Algorithmic Fairness."" Virginia Law Review 106, no. 4 (June 2020): 811?€?866. https://www.jstor.org/stable/10.2307/27074708",2020,Pass,9,Yes,Included in final 107-study analytical corpus.
+P097,P097 - Kawamoto2020,"Kawamoto, Yusuke. ""Towards Logical Specification of Statistical Machine Learning."" arXiv:1907.10327v2 [cs.LO] (28 Mar 2020).",2020,Pass,8,Yes,Included in final 107-study analytical corpus.
+P094,P094 - Bietti2020FAccT,"Bietti, Elettra. ""From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy."" In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT\ '20)*, 210?€?219. Barcelona, Spain, Jan 27?€?30, 2020. ACM. https://doi.org/10.1145/3351095.3372860",2020,Pass,8,Yes,Included in final 107-study analytical corpus.
+P102,P102 - Sharma2020,"Sharma, Arnab, and Heike Wehrheim. ?€?Automatic Fairness Testing of Machine Learning Models.?€? In Testing Software and Systems (ICTSS 2020), 32nd IFIP International Conference on Testing Software and Systems, Naples, Italy, Dec 2020, pp. 255?€?271. Springer. https://doi.org/10.1007/978-3-030-64881-7_16. HAL: hal-03239825 (submitted 27 May 2021): https://inria.hal.science/hal-03239825v1",2020,Pass,8,Yes,Included in final 107-study analytical corpus.
+P103,P103 - Pager2008,"Pager, Devah, and Hana Shepherd. ?€?The Sociology of Discrimination: Racial Discrimination in Employment, Housing, Credit, and Consumer Markets.?€? Annual Review of Sociology 34 (2008): 181?€?209. First published online March 17, 2008. https://doi.org/10.1146/annurev.soc.33.040406.131740",2008,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P100,P100 - Zheng2022NeuronFair,Zheng2022NeuronFair,2022,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P105,P105 - Buolamwini2018,"Buolamwini, Joy, and Timnit Gebru. ?€?Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.?€? In Proceedings of Machine Learning Research, vol. 81, Conference on Fairness, Accountability, and Transparency (FAT*), 2018, pp. 1?€?15. (PPB dataset: http://gendershades.org/)",2018,Pass,9,Yes,Included in final 107-study analytical corpus.
+P098,P098 - Li2024RUNNER,"Li, Tianlin, Yue Cao, Jian Zhang, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, and Yang Liu. ""RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness."" In Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE ?€?24), April 14?€?20, 2024, Lisbon, Portugal. ACM, 13 pages. https://doi.org/10.1145/3597503.3623334",2024,Pass,9,Yes,Included in final 107-study analytical corpus.
+P099,P099 - Monjezi2023,"Monjezi, Verya, Gang Tan, Ashutosh Trivedi, and Saeid Tizpaz-Niari. ""Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks."" In 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE). IEEE/ACM, 2023. https://doi.org/10.1109/ICSE48619.2023.00136",2023,Pass,9,Yes,Included in final 107-study analytical corpus.
+P104,P104 - Chen2025TNNLS,"Chen, Huiqiang, Tianqing Zhu, Wanlei Zhou, and Wei Zhao. ?€?AFed: Algorithmic Fair Federated Learning.?€? IEEE Transactions on Neural Networks and Learning Systems 36, no. 8 (Aug 2025). DOI: https://doi.org/10.1109/TNNLS.2025.3528012.",2025,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P106,P106 - Borkan2019WWW,"Borkan, Daniel, Lucas Dixon, Jeffrey Sorensen, Nithum Thain, and Lucy Vasserman. ?€?Nuanced Metrics for Measuring Unintended Bias with Real Data for Text Classification.?€? In Companion Proceedings of the 2019 World Wide Web Conference (WWW ?€?19 Companion), May 13?€?17, 2019, San Francisco, CA, USA. ACM, 10 pages. https://doi.org/10.1145/3308560.3317593",2019,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P101,P101 - Raji2022,"Raji, Inioluwa Deborah, I. Elizabeth Kumar, Aaron Horowitz, and Andrew D. Selbst. ?€?The Fallacy of AI Functionality.?€? In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ?€?22), June 21?€?24, 2022, Seoul, Republic of Korea. ACM. https://doi.org/10.1145/3531146.3533158",2022,Pass,8,Yes,Included in final 107-study analytical corpus.
+P107,P107 - Calmon2017NeurIPS,"Calmon, Flavio P., Dennis Wei, Bhanukiran Vinzamuri, Karthikeyan Natesan Ramamurthy, and Kush R. Varshney. ""Optimized Pre-Processing for Discrimination Prevention."" In Advances in Neural Information Processing Systems (NeurIPS), 2017.",2017,Pass,8.5,Yes,Included in final 107-study analytical corpus.
+P109,P109 - Pleiss2017NeurIPS,"Pleiss, Geoff, Manish Raghavan, Felix Wu, Jon Kleinberg, and Kilian Q. Weinberger. ""On Fairness and Calibration."" In Advances in Neural Information Processing Systems (NeurIPS), 2017.",2017,Pass,9,Yes,Included in final 107-study analytical corpus.
+P108,P108 - Kilbertus2017NeurIPS,"Kilbertus, Niki, Mateo Rojas-Carulla, Giambattista Parascandolo, Moritz Hardt, Dominik Janzing, and Bernhard Sch??lkopf. ""Avoiding Discrimination through Causal Reasoning."" In Advances in Neural Information Processing Systems (NeurIPS), 2017.",2017,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P110,P110 - She2025FairSense,She2025FairSense,2025,Pass,7.5,Yes,Included in final 107-study analytical corpus.
+P092,P092 - PrinceSchwarcz2020,"Prince, Anya E.R., and Daniel Schwarcz. ""Proxy Discrimination in the Age of Artificial Intelligence and Big Data."" Iowa Law Review 105 (2020): 1257?€?1318. https://scholarship.law.umn.edu/faculty_articles/682",2020,Pass,8,Yes,Included in final 107-study analytical corpus.

@@ -1,0 +1,243 @@
+path,bytes
+.gitignore,38
+.nojekyll,0
+CITATION.cff,611
+LICENSE.md,583
+README.md,7253
+data/coded_csv/Data_Extraction.csv,428622
+data/coded_csv/Domain.csv,428622
+data/coded_csv/Papers_coded.csv,428622
+data/coded_csv/RQ1_levels.csv,420347
+data/coded_csv/RQ2_operationalization.csv,428622
+data/coded_csv/RQ3_overtime.csv,48241
+data/final_dataset/fairness_slr_results.xlsx,353916
+data/per_study_notes/P001_Pedreschi2008.md,3825
+data/per_study_notes/P002_Finkelstein2008.md,3804
+data/per_study_notes/P003_Torralba2011.md,3855
+data/per_study_notes/P004_Dwork2012.md,4256
+data/per_study_notes/P005_Kamiran2012.md,4886
+data/per_study_notes/P006_Kamishima2012.md,4956
+data/per_study_notes/P007_Sweeney2013.md,4889
+data/per_study_notes/P008_Zemel2013.md,5314
+data/per_study_notes_all_coding_pass/P001_Pedreschi2008.md,3825
+data/per_study_notes_all_coding_pass/P002_Finkelstein2008.md,3804
+data/per_study_notes_all_coding_pass/P003_Torralba2011.md,3855
+data/per_study_notes_all_coding_pass/P004_Dwork2012.md,4256
+data/per_study_notes_all_coding_pass/P005_Kamiran2012.md,4886
+data/per_study_notes_all_coding_pass/P006_Kamishima2012.md,4956
+data/per_study_notes_all_coding_pass/P007_Sweeney2013.md,4889
+data/per_study_notes_all_coding_pass/P008_Zemel2013.md,5314
+data/per_study_notes_all_coding_pass/P009_Feldman2015.md,5465
+data/per_study_notes_all_coding_pass/P010_Hardt2016.md,6014
+data/per_study_notes_all_coding_pass/P011_Zhang2016Causal.md,6346
+data/per_study_notes_all_coding_pass/P012_GrgicHlaca2016.md,5760
+data/per_study_notes_all_coding_pass/P013_BarocasSelbst2016.md,4980
+data/per_study_notes_all_coding_pass/P014_Zafar2017a.md,5421
+data/per_study_notes_all_coding_pass/P015_Zafar2017b.md,5676
+data/per_study_notes_all_coding_pass/P016_Zafar2017c.md,5824
+data/per_study_notes_all_coding_pass/P017_GrgicHlaca2017Randomness.md,5521
+data/per_study_notes_all_coding_pass/P018_CorbettDavies2017.md,5919
+data/per_study_notes_all_coding_pass/P019_Galhotra2017.md,5515
+data/per_study_notes_all_coding_pass/P020_Kusner2017.md,6100
+data/per_study_notes_all_coding_pass/P021_Ensign2018.md,4800
+data/per_study_notes_all_coding_pass/P022_GrgicHlaca2018Procedural.md,5146
+data/per_study_notes_all_coding_pass/P023_Udeshi2018.md,5232
+data/per_study_notes_all_coding_pass/P024_Liu2018Delayed.md,3438
+data/per_study_notes_all_coding_pass/P025_Zhang2018Adversarial.md,3445
+data/per_study_notes_all_coding_pass/P026_Agarwal2018Reductions.md,4389
+data/per_study_notes_all_coding_pass/P027_Binns2018.md,4395
+data/per_study_notes_all_coding_pass/P028_Elzayn2019.md,4939
+data/per_study_notes_all_coding_pass/P029_Hu2019.md,4970
+data/per_study_notes_all_coding_pass/P030_Milli2019.md,5750
+data/per_study_notes_all_coding_pass/P031_Ustun2019.md,5795
+data/per_study_notes_all_coding_pass/P032_Cotter2019.md,6196
+data/per_study_notes_all_coding_pass/P033_Golz2019.md,6213
+data/per_study_notes_all_coding_pass/P034_Passi2019.md,5951
+data/per_study_notes_all_coding_pass/P035_Selbst2019.md,5564
+data/per_study_notes_all_coding_pass/P036_Creager2019.md,4818
+data/per_study_notes_all_coding_pass/P037_Zhang2019TKDE.md,5511
+data/per_study_notes_all_coding_pass/P038_Wick2019.md,5497
+data/per_study_notes_all_coding_pass/P039_Polyzotis2019.md,6818
+data/per_study_notes_all_coding_pass/P040_Atwood2019.md,3935
+data/per_study_notes_all_coding_pass/P041_Foulds2020.md,4404
+data/per_study_notes_all_coding_pass/P042_Fu2020.md,5202
+data/per_study_notes_all_coding_pass/P043_DAmour2020.md,6343
+data/per_study_notes_all_coding_pass/P044_Creager2020.md,5695
+data/per_study_notes_all_coding_pass/P045_Mitchell2021.md,6747
+data/per_study_notes_all_coding_pass/P046_Vasudevan2020.md,7171
+data/per_study_notes_all_coding_pass/P047_Schumann2021.md,6359
+data/per_study_notes_all_coding_pass/P048_Krishnaswamy2021.md,6171
+data/per_study_notes_all_coding_pass/P049_Agarwal2021.md,6211
+data/per_study_notes_all_coding_pass/P050_Yeom2021.md,6474
+data/per_study_notes_all_coding_pass/P051_Chen2021.md,6240
+data/per_study_notes_all_coding_pass/P052_Karkkainen2021.md,6526
+data/per_study_notes_all_coding_pass/P053_Zhao2023.md,6019
+data/per_study_notes_all_coding_pass/P054_Do2022.md,6429
+data/per_study_notes_all_coding_pass/P055_Baker2022.md,6704
+data/per_study_notes_all_coding_pass/P056_Pradhan2022.md,5220
+data/per_study_notes_all_coding_pass/P057_Black2022.md,7067
+data/per_study_notes_all_coding_pass/P058_Mambreyan2022.md,5710
+data/per_study_notes_all_coding_pass/P059_Kesgin2025.md,5873
+data/per_study_notes_all_coding_pass/P060_Wang2022REVISE.md,5398
+data/per_study_notes_all_coding_pass/P061_Ghai2023DBIAS.md,5684
+data/per_study_notes_all_coding_pass/P062_Qin2026Prune.md,5305
+data/per_study_notes_all_coding_pass/P063_Beutel2019PairwiseRecFair.md,5254
+data/per_study_notes_all_coding_pass/P064_Merchant2023GNNTradeoffs.md,5590
+data/per_study_notes_all_coding_pass/P065_Liu2023.md,3790
+data/per_study_notes_all_coding_pass/P066_Zhang2023.md,3797
+data/per_study_notes_all_coding_pass/P067_CorbettDavies2023MeasureMismeasure.md,5950
+data/per_study_notes_all_coding_pass/P068_Jung2024CounterfactuallyFairImages.md,5553
+data/per_study_notes_all_coding_pass/P069_Luo2024FairCLIP.md,5573
+data/per_study_notes_all_coding_pass/P070_Rateike2024LongTermPolicies.md,5313
+data/per_study_notes_all_coding_pass/P071_Blandin2024FairIRL.md,5644
+data/per_study_notes_all_coding_pass/P072_Han2024SFairGNN.md,5511
+data/per_study_notes_all_coding_pass/P073_Li2025PAMI_(SFairGNN_structure_fairness).md,5561
+data/per_study_notes_all_coding_pass/P074_Pham2025_(FAIREDU).md,4071
+data/per_study_notes_all_coding_pass/P075_Abbas2025_(SME_lending;_mixed-methods).md,5289
+data/per_study_notes_all_coding_pass/P076_Holstein2019.md,4568
+data/per_study_notes_all_coding_pass/P077_Madaio2020.md,4233
+data/per_study_notes_all_coding_pass/P078_Zhang2020.md,4235
+data/per_study_notes_all_coding_pass/P079_Sharma2019.md,4235
+data/per_study_notes_all_coding_pass/P080_Aggarwal2019.md,3717
+data/per_study_notes_all_coding_pass/P081_Bellamy2019.md,4006
+data/per_study_notes_all_coding_pass/P082_Black2020Flip.md,3678
+data/per_study_notes_all_coding_pass/P083_Li2025TOSEM.md,4125
+data/per_study_notes_all_coding_pass/P084_Brun2018.md,2257
+data/per_study_notes_all_coding_pass/P085_Cleary1966.md,3623
+data/per_study_notes_all_coding_pass/P086_Sunstein1994.md,2283
+data/per_study_notes_all_coding_pass/P087_Anderson1999.md,2362
+data/per_study_notes_all_coding_pass/P088_Bertrand2004.md,2768
+data/per_study_notes_all_coding_pass/P089_PerryZarsky2014.md,2296
+data/per_study_notes_all_coding_pass/P090_Fishkin2014.md,2411
+data/per_study_notes_all_coding_pass/P091_MetcalfMoss2019.md,3715
+data/per_study_notes_all_coding_pass/P092_PrinceSchwarcz2020.md,4719
+data/per_study_notes_all_coding_pass/P093_Hellman2020.md,4428
+data/per_study_notes_all_coding_pass/P094_Bietti2020FAccT.md,4413
+data/per_study_notes_all_coding_pass/P095_Biswas2023ICSE.md,5791
+data/per_study_notes_all_coding_pass/P096_Chakraborty2020Fairway.md,6389
+data/per_study_notes_all_coding_pass/P097_Kawamoto2020.md,5670
+data/per_study_notes_all_coding_pass/P098_Li2024RUNNER.md,6049
+data/per_study_notes_all_coding_pass/P099_Monjezi2023.md,7193
+data/per_study_notes_all_coding_pass/P100_Zheng2022NeuronFair.md,3876
+data/per_study_notes_all_coding_pass/P101_Raji2022.md,3610
+data/per_study_notes_all_coding_pass/P102_Sharma2020.md,4610
+data/per_study_notes_all_coding_pass/P103_Pager2008.md,3728
+data/per_study_notes_all_coding_pass/P104_Chen2025TNNLS.md,4505
+data/per_study_notes_all_coding_pass/P105_Buolamwini2018.md,4200
+data/per_study_notes_all_coding_pass/P106_Borkan2019WWW.md,4471
+data/per_study_notes_all_coding_pass/P107_Calmon2017NeurIPS.md,4459
+data/per_study_notes_all_coding_pass/P108_Kilbertus2017NeurIPS.md,4489
+data/per_study_notes_all_coding_pass/P109_Pleiss2017NeurIPS.md,5048
+data/per_study_notes_all_coding_pass/P110_She2025FairSense.md,4616
+data/search_screening/Fairness_RE_SLR_802_Record_Level_Screening_Decisions.csv,1211267
+data/search_screening/Fairness_RE_SLR_802_to_107_Screening_Flow.csv,1433
+data/search_screening/Fairness_RE_SLR_Coding_Pass_to_Final_Corpus_Audit.csv,16625
+data/search_screening/Fairness_RE_SLR_Final_107_Record_Map.csv,21745
+data/search_screening/Fairness_RE_SLR_Primary_Studies_107.csv,70513
+data/search_screening/Fairness_RE_SLR_Record_Level_Screening_Decisions.csv,1211267
+data/search_screening/Fairness_RE_SLR_Screening_Flow.csv,1273
+data/search_screening/Fairness_RE_SLR_Screening_Reduction_Steps.csv,929
+data/search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv,3657
+data/search_screening/Fairness_RE_SLR_Search_Log_Template_Export.pdf,54661
+data/search_screening/Fairness_RE_SLR_Search_Query_Set.csv,7322
+data/search_screening/Fairness_RE_SLR_Search_Runs.csv,2871
+data/search_screening/Fairness_RE_SLR_Search_Screenshot_Index.csv,35248
+data/search_screening/Fairness_RE_SLR_Search_Screenshot_Metadata_Extracted.csv,30464
+data/search_screening/Fairness_RE_SLR_Source_Database_Metadata_Deduplicated.csv,1462941
+data/search_screening/Fairness_RE_SLR_Source_Database_Metadata_Extracted.csv,1588279
+data/search_screening/Fairness_RE_SLR_Source_Metadata_Counts.csv,856
+data/search_screening/Fairness_RE_SLR_Source_Metadata_Examples.csv,13135
+data/search_screening/Fairness_RE_SLR_Title_Abstract_Screening_Metadata_802.csv,1070983
+data/search_screening/Fairness_RE_SLR__Screening_Search_Log.csv,25903
+data/search_screening/README_SEARCH_SCREENING_TRACE.md,2180
+data/search_screening/raw_search_exports/ACM_Digital_Library_visible_metadata_extracted.csv,782
+data/search_screening/raw_search_exports/ACM_records.csv,233499
+data/search_screening/raw_search_exports/Google_Scholar_records.csv,541259
+data/search_screening/raw_search_exports/Google_Scholar_visible_metadata_extracted.csv,3063
+data/search_screening/raw_search_exports/IEEE_Xplore_records.csv,41493
+data/search_screening/raw_search_exports/IEEE_Xplore_visible_metadata_extracted.csv,641
+data/search_screening/raw_search_exports/ScienceDirect_records.csv,415936
+data/search_screening/raw_search_exports/ScienceDirect_visible_metadata_extracted.csv,2234
+data/search_screening/raw_search_exports/SpringerLink_records.csv,293116
+data/search_screening/raw_search_exports/SpringerLink_visible_metadata_extracted.csv,1150
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/1. acm.bib,22137
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/10. acm.bib,31234
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/2. acm.bib,28354
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/3. acm.bib,38684
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/4. acm.bib,39001
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/5. acm.bib,31100
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/6. acm.bib,37058
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/7. acm.bib,38947
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/8. acm.bib,37781
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ACM Digital Library/9. acm.bib,367
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/1. IEEE Xplore Citation BibTeX.bib,4672
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/10. IEEE Xplore Citation BibTeX.bib,14870
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/2. IEEE Xplore Citation BibTeX.bib,15110
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/3. IEEE Xplore Citation BibTeX.bib,15949
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/4. IEEE Xplore Citation BibTeX.bib,15083
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/5. IEEE Xplore Citation BibTeX.bib,13999
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/6. IEEE Xplore Citation BibTeX.bib,16772
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/7. IEEE Xplore Citation BibTeX.bib,15234
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/8. IEEE Xplore Citation BibTeX.bib,16602
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/IEEE Xplore/9. IEEE Xplore Citation BibTeX.bib,16151
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/1. ScienceDirect_citations.bib,57705
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/10. ScienceDirect.bib,53838
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/2. ScienceDirect.bib,48654
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/3. ScienceDirect.bib,57812
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/4. ScienceDirect.bib,54778
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/5. ScienceDirect.bib,56175
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/6. ScienceDirect.bib,59640
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/7. ScienceDirect.bib,56693
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/8. ScienceDirect.bib,119523
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/ScienceDirect/9. ScienceDirect.bib,1908
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/1. SearchResults.csv,3001
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/10. SearchResults.csv,41319
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/2. SearchResults.csv,8392
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/3. SearchResults.csv,9913
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/4. SearchResults.csv,5633
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/5. SearchResults.csv,13142
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/6. SearchResults.csv,29508
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/7. SearchResults.csv,72023
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/8. SearchResults.csv,145986
+data/search_screening/raw_search_exports/source_database_bib_csv_exports/SpringerLink/9. SearchResults.csv,1294
+docs/CHANGELOG.md,371
+docs/DATA_DICTIONARY.md,9269
+docs/Figure4_Study_Selection_Replication_Demo_802.aux,964
+docs/Figure4_Study_Selection_Replication_Demo_802.log,25203
+docs/Figure4_Study_Selection_Replication_Demo_802.out,0
+docs/Figure4_Study_Selection_Replication_Demo_802.pdf,109248
+docs/Figure4_Study_Selection_Replication_Demo_802.tex,5358
+docs/GITHUB_UPLOAD_INSTRUCTIONS.md,1067
+docs/REPLICATION_PROTOCOL.md,2469
+docs/SCREENING_SEARCH_LOG_README.md,3700
+docs/STUDY_SELECTION_DEMONSTRATION_802_TO_107.md,2842
+docs/STUDY_SELECTION_DEMONSTRATION_802_TO_107.pdf,158596
+docs/STUDY_SELECTION_DEMONSTRATION_802_TO_107.png,187954
+docs/STUDY_SELECTION_DEMONSTRATION_802_TO_107.tex,5943
+exports/pdf_views/ByDomain.pdf,591888
+exports/pdf_views/Fairness_RE_SLR_Extraction_Database.pdf,529799
+exports/pdf_views/RQ1_Levels.pdf,862273
+exports/pdf_views/RQ2_Operationalization.pdf,3934068
+exports/pdf_views/RQ3_Overtime.pdf,205786
+metadata/FILE_MANIFEST.csv,16613
+metadata/checksums_sha256.txt,30364
+metadata/csv_inventory.json,14449
+metadata/source_metadata_extraction_summary.json,1110
+raw/ocr_text_by_screenshot/ACM_Digital_Library_1_ocr.txt,4162
+raw/ocr_text_by_screenshot/ACM_Digital_Library_2_ocr.txt,4232
+raw/ocr_text_by_screenshot/ACM_Digital_Library_8_ocr.txt,1082
+raw/search_screenshots/ACM.zip,5655165
+raw/search_screenshots/Google Scholar.zip,4267660
+raw/search_screenshots/Google_Scholar.zip,4267660
+raw/search_screenshots/IEEE Xplore.zip,3549427
+raw/search_screenshots/IEEE_Xplore.zip,3549427
+raw/search_screenshots/SciencDirect.zip,4593055
+raw/search_screenshots/ScienceDirect.zip,4593055
+raw/search_screenshots/SpringerLink.zip,5369320
+raw/search_source_database_exports/1. IEEE Xplore.zip,2718362
+raw/search_source_database_exports/2. ACM Digital Library.zip,4230436
+raw/search_source_database_exports/3. SpringerLink.zip,3958759
+raw/search_source_database_exports/4. ScienceDirect.zip,2895407
+raw/search_source_database_exports/5. Google Scholar.zip,2229338
+scripts/summarize_csv_counts.py,461
+scripts/validate_replication_package.py,1186
