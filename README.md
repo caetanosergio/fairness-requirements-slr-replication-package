@@ -37,16 +37,16 @@ fairness-requirements-slr-replication-package/
 
 | File | Data rows | Columns |
 |---|---:|---:|
-| `data/coded_csv/Papers_coded.csv` | 110 | 65 |
-| `data/coded_csv/RQ1_levels.csv` | 107 | 65 |
-| `data/coded_csv/RQ2_operationalization.csv` | 110 | 65 |
-| `data/coded_csv/RQ3_overtime.csv` | 10 | 65 |
-| `data/coded_csv/Data_Extraction.csv` | 110 | 65 |
-| `data/coded_csv/Domain.csv` | 110 | 65 |
+| `coded_csv/Papers_coded.csv` | 110 | 65 |
+| `coded_csv/RQ1_levels.csv` | 107 | 65 |
+| `coded_csv/RQ2_operationalization.csv` | 110 | 65 |
+| `coded_csv/RQ3_overtime.csv` | 10 | 65 |
+| `coded_csv/Data_Extraction.csv` | 110 | 65 |
+| `coded_csv/Domain.csv` | 110 | 65 |
 
 Notes:
-- `data/final_dataset/fairness_slr_results.xlsx` is the workbook-style extraction database supplied with the package.
-- `data/coded_csv/RQ1_levels.csv`, `data/coded_csv/RQ2_operationalization.csv`, and `data/coded_csv/RQ3_overtime.csv` provide RQ-specific analysis views.
+- `final_dataset/fairness_slr_results.xlsx` is the workbook-style extraction database supplied with the package.
+- `coded_csv/RQ1_levels.csv`, `data/coded_csv/RQ2_operationalization.csv`, and `data/coded_csv/RQ3_overtime.csv` provide RQ-specific analysis views.
 - Some raw CSV exports preserve earlier coding-pass records; the manuscript's final analytical corpus is **107 studies**. The package keeps the raw exports transparent rather than silently deleting records.
 
 ## PDF exports
@@ -63,7 +63,7 @@ These are included for convenient visual inspection of the coding sheets.
 
 ## Per-study notes
 
-The `data/per_study_notes/` folder includes individual markdown notes for the uploaded study notes P001-P008. These notes provide example study-level coding, gap summaries, QA notes, and evidence snippets.
+The `per_study_notes/` folder includes individual markdown notes for the uploaded study notes P001-P008. These notes provide example study-level coding, gap summaries, QA notes, and evidence snippets.
 
 ## Reproducing basic checks
 
@@ -137,17 +137,17 @@ This means:
 
 ### Key files
 
-- `data/search_screening/Fairness_RE_SLR_Screening_Flow.csv` — full summary flow for the study.
-- `data/search_screening/Fairness_RE_SLR_Screening_Reduction_Steps.csv` — reduction-step summary with counts and reasons.
-- `data/search_screening/Fairness_RE_SLR_Search_Runs.csv` — source-by-source search-run summary.
-- `data/search_screening/Fairness_RE_SLR_Source_Database_Metadata_Extracted.csv` — all extracted records from available BibTeX/CSV source exports.
-- `data/search_screening/Fairness_RE_SLR_Source_Database_Metadata_Deduplicated.csv` — deduplicated source-export metadata.
-- `data/search_screening/Fairness_RE_SLR_Title_Abstract_Screening_Metadata_802.csv` — metadata-backed 802-record title/abstract screening pool.
-- `data/search_screening/Fairness_RE_SLR_802_Record_Level_Screening_Decisions.csv` — record-level trace for the 802-screened candidates through the later reduction stages.
-- `data/search_screening/Fairness_RE_SLR_802_to_107_Screening_Flow.csv` — compact 802-to-107 screening flow.
-- `data/search_screening/Fairness_RE_SLR_Source_Metadata_Examples.csv` — examples extracted directly from the source database metadata files.
-- `data/search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv` — step-by-step search demonstration.
+- `search_screening/Fairness_RE_SLR_Screening_Flow.csv` — full summary flow for the study.
+- `search_screening/Fairness_RE_SLR_Screening_Reduction_Steps.csv` — reduction-step summary with counts and reasons.
+- `search_screening/Fairness_RE_SLR_Search_Runs.csv` — source-by-source search-run summary.
+- `search_screening/Fairness_RE_SLR_Source_Database_Metadata_Extracted.csv` — all extracted records from available BibTeX/CSV source exports.
+- `search_screening/Fairness_RE_SLR_Source_Database_Metadata_Deduplicated.csv` — deduplicated source-export metadata.
+- `search_screening/Fairness_RE_SLR_Title_Abstract_Screening_Metadata_802.csv` — metadata-backed 802-record title/abstract screening pool.
+- `search_screening/Fairness_RE_SLR_802_Record_Level_Screening_Decisions.csv` — record-level trace for the 802-screened candidates through the later reduction stages.
+- `search_screening/Fairness_RE_SLR_802_to_107_Screening_Flow.csv` — compact 802-to-107 screening flow.
+- `search_screening/Fairness_RE_SLR_Source_Metadata_Examples.csv` — examples extracted directly from the source database metadata files.
+- `search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv` — step-by-step search demonstration.
 - `docs/Figure4_Study_Selection_Replication_Demo_802.tex` and `docs/Figure4_Study_Selection_Replication_Demo_802.pdf` — replication-oriented diagram matching the study-selection flow while clarifying that the package demonstrates the **802-record** trace.
-- `data/search_screening/raw_search_exports/source_database_bib_csv_exports/` — extracted BibTeX/CSV export files from the source databases.
+- `search_screening/raw_search_exports/source_database_bib_csv_exports/` — extracted BibTeX/CSV export files from the source databases.
 
 The package does **not** include copyrighted full-text PDFs of the 4,010 retrieved records; it provides metadata, screening decisions, and final coded extraction data instead.
