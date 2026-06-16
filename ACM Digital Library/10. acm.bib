@@ -1,0 +1,283 @@
+@inproceedings{10.1145/3593013.3593984,
+author = {Wang, Zichong and Saxena, Nripsuta and Yu, Tongjia and Karki, Sneha and Zetty, Tyler and Haque, Israat and Zhou, Shan and Kc, Dukka and Stockwell, Ian and Wang, Xuyu and Bifet, Albert and Zhang, Wenbin},
+title = {Preventing Discriminatory Decision-making in Evolving Data Streams},
+year = {2023},
+isbn = {9798400701924},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3593013.3593984},
+doi = {10.1145/3593013.3593984},
+abstract = {Bias in machine learning has rightly received significant attention over the past decade. However, most fair machine learning (fair-ML) works to address bias in decision-making systems has focused solely on the offline setting. Despite the wide prevalence of online systems in the real world, work on identifying and correcting bias in the online setting is severely lacking. The unique challenges of the online environment make addressing bias more difficult than in the offline setting. First, Streaming Machine Learning (SML) algorithms must deal with the constantly evolving real-time data stream. Secondly, they need to adapt to changing data distributions (concept drift) to make accurate predictions on new incoming data. Incorporating fairness constraints into this already intricate task is not straightforward. In this work, we focus on the challenges of achieving fairness in biased data streams while accounting for the presence of concept drift, accessing one sample at a time. We present Fair Sampling over Stream (FS2), a novel fair rebalancing approach capable of being integrated with SML classification algorithms. Furthermore, we devise the first unified performance-fairness metric, Fairness Bonded Utility (FBU), to efficiently evaluate and compare the trade-offs between performance and fairness across various bias mitigation methods. FBU simplifies the comparison of fairness-performance trade-offs of multiple techniques through one unified and intuitive evaluation, allowing model designers to easily choose a technique. Overall, extensive evaluations show our measures surpass those of other fair online techniques previously reported in the literature.},
+booktitle = {Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency},
+pages = {149–159},
+numpages = {11},
+keywords = {Concept Drift, Data Stream, Fairness, Fairness Drift},
+location = {Chicago, IL, USA},
+series = {FAccT '23}
+}
+
+@article{10.1145/3760535.3760541,
+author = {Yfantidou, Sofia and Sermpezis, Pavlos and Vakali, Athena and Baeza-Yates, Ricardo},
+title = {Uncovering the Hidden Biases in Personal Informatics},
+year = {2025},
+issue_date = {June 2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {29},
+number = {2},
+issn = {2375-0529},
+url = {https://doi.org/10.1145/3760535.3760541},
+doi = {10.1145/3760535.3760541},
+abstract = {Personal Informatics (PI) systems, such as apps and wearables that help users track physical activity, sleep, heart rate, or stress, have become critical tools for self-monitoring and health research. As these systems increasingly drive personal and clinical decisionmaking, it's vital to understand how equitable and representative they really are. Real-world harms have already surfaced in adjacent domains: health sensors like pulse oximeters underperform on darker skin tones [1], and female speakers and non-US nationalities experience significant performance degradation in automated speaker recognition [2]. These failures aren't just technical - they're structural, human-centric, and societal. Yet, despite their growing influence, PI systems remain critically under-researched from a fairness and equity perspective [3]. Our research, detailed in [4], investigates this question by examining when, how, and for whom bias arises in the lifecycle of PI systems.},
+journal = {GetMobile: Mobile Comp. and Comm.},
+month = aug,
+pages = {26–30},
+numpages = {5}
+}
+
+@inproceedings{10.1145/3769102.3774631,
+author = {Adarbah, Haitham Y. and Sha, Kewei and Noore, Afzel},
+title = {Toward Design of a Scalable Federated Unlearning Framework for Trustworthy Edge Intelligence},
+year = {2025},
+isbn = {9798400722387},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3769102.3774631},
+doi = {10.1145/3769102.3774631},
+abstract = {Federated learning (FL) enables collaborative model training across edge devices without centralizing raw data, but existing frameworks remain ill-equipped to support data privacy regulations mandated by GDPR, HIPAA, and CCPA. Once user data has influenced training, its verifiable removal becomes prohibitively expensive, particularly in non-IID and resource-constrained edge environments. This paper introduces a modular and scalable federated unlearning framework that unifies three complementary strategies: gradient subtraction, knowledge distillation, and checkpoint rollback, within an adaptive decision layer. A resource-aware checkpoint manager reduces storage costs through compression and pruning, while a privacy and trust layer integrates zero-knowledge proofs, differential privacy, and Merkle-based audit logs to provide verifiable guarantees of deletion. A non-IID-aware aggregator further preserves fairness across heterogeneous clients. Unlike prior approaches, our proposed framework systematically integrates rollback efficiency with formal privacy protections and auditability, offering a practical path toward trustworthy and regulation-compliant unlearning in domains such as healthcare, transportation, and smart agriculture.},
+booktitle = {Proceedings of the Tenth ACM/IEEE Symposium on Edge Computing},
+articleno = {65},
+numpages = {6},
+keywords = {federated unlearning, edge intelligence, differential privacy, zero-knowledge proofs (ZKPs), trustworthy artificial intelligence},
+location = {the Hilton Arlington National Landing, Arlington, VA, USA},
+series = {SEC '25}
+}
+
+@inproceedings{10.1145/3664647.3681545,
+author = {Wang, Zhongchi and Sun, Hailong and Zhao, Zhengyang},
+title = {FedEvalFair: A Privacy-Preserving and Statistically Grounded Federated Fairness Evaluation Framework},
+year = {2024},
+isbn = {9798400706868},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3664647.3681545},
+doi = {10.1145/3664647.3681545},
+abstract = {Federated learning has rapidly gained attention in the industrial sector due to its significant advantages in protecting privacy. However, ensuring the fairness of federated learning models post-deployment presents a challenge in practical applications. Given that clients typically rely on limited private datasets to assess model fairness, this constrains their ability to make accurate judgments about the fairness of the model. To address this issue, we propose an innovative evaluation framework, FedEvalFair, which integrates private data from multiple clients to comprehensively assess the fairness of models in actual deployment without compromising data privacy. Firstly, FedEvalFair draws on the concept of federated learning to achieve a comprehensive assessment while protecting privacy. Secondly, based on the statistical concept of "estimating the population from the sample", FedEvalFair is capable of estimating the fairness performance of the model in real-world settings from a limited data sample. Thirdly, we have designed a flexible two-stage evaluation strategy based on statistical hypothesis testing. We verified the theoretical performance and sensitivity to fairness variations of FedEvalFair using Monte Carlo simulations, demonstrating the superior performance of its two-stage evaluation strategy. Additionally, we validated the effectiveness of the FedEvalFair method on real-world datasets, including UCI Adult and eICU, and demonstrated its stability in dealing with real-world data distribution changes compared to traditional evaluation methods.},
+booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+pages = {7191–7199},
+numpages = {9},
+keywords = {federated evaluation framework, federated learning, hypothesis testing, model fairness, privacy, statistical inference},
+location = {Melbourne VIC, Australia},
+series = {MM '24}
+}
+
+@inproceedings{10.1145/3514094.3534157,
+author = {Ghosh, Avijit and Shanbhag, Aalok and Wilson, Christo},
+title = {FairCanary: Rapid Continuous Explainable Fairness},
+year = {2022},
+isbn = {9781450392471},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3514094.3534157},
+doi = {10.1145/3514094.3534157},
+abstract = {Systems that offer continuous model monitoring have emerged in response to (1) well-documented failures of deployed Machine Learning (ML) and Artificial Intelligence (AI) models and (2) new regulatory requirements impacting these models. Existing monitoring systems continuously track the performance of deployed ML models and compute feature importance (a.k.a. explanations) for each prediction to help developers identify the root causes of emergent model performance problems.We present Quantile Demographic Drift (QDD), a novel model bias quantification metric that uses quantile binning to measure differences in the overall prediction distributions over subgroups. QDD is ideal for continuous monitoring scenarios, does not suffer from the statistical limitations of conventional threshold-based bias metrics, and does not require outcome labels (which may not be available at runtime). We incorporate QDD into a continuous model monitoring system, called FairCanary, that reuses existing explanations computed for each individual prediction to quickly compute explanations for the QDD bias metrics. This optimization makes FairCanary an order of magnitude faster than previous work that has tried to generate feature-level bias explanations.},
+booktitle = {Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society},
+pages = {307–316},
+numpages = {10},
+keywords = {continuous measurement, drift, fairness, model explanation},
+location = {Oxford, United Kingdom},
+series = {AIES '22}
+}
+
+@inproceedings{10.1145/3637528.3671588,
+author = {Zuo, Chandler and Castaldo, Jonathan and Zhu, Hanqing and Zhang, Haoyu and Liu, Ji and Ou, Yangpeng and Kong, Xiao},
+title = {Inductive Modeling for Realtime Cold Start Recommendations},
+year = {2024},
+isbn = {9798400704901},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3637528.3671588},
+doi = {10.1145/3637528.3671588},
+abstract = {In recommendation systems, the timely delivery of new content to their relevant audiences is critical for generating a growing and high quality collection of content for all users. The nature of this problem requires retrieval models to be able to make inferences in real time and with high relevance. There are two specific challenges for cold start contents. First, the information loss problem in a standard Two Tower model, due to the limited feature interactions between the user and item towers, is exacerbated for cold start items due to training data sparsity. Second, the huge volume of user-generated content in industry applications today poses a big bottleneck in the end-to-end latency of recommending new content. To overcome the two challenges, we propose a novel architecture, the Item History Model (IHM). IHM directly injects user-interaction information into the item tower to overcome information loss. In addition, IHM incorporates an inductive structure using attention-based pooling to eliminate the need for recurring training, a key bottleneck for the real-timeness. On both public and industry datasets, we demonstrate that IHM can not only outperform baselines in recommending cold start contents, but also achieves SoTA real-timeness in industry applications.},
+booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+pages = {6400–6409},
+numpages = {10},
+keywords = {cold start, inductive model, information retrieval, real-time learning, recommendations},
+location = {Barcelona, Spain},
+series = {KDD '24}
+}
+
+@inproceedings{10.1145/3379177.3388892,
+author = {John, Meenu Mary and Olsson, Helena Holmstr\"{o}m and Bosch, Jan},
+title = {Developing ML/DL Models: A Design Framework},
+year = {2020},
+isbn = {9781450375122},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3379177.3388892},
+doi = {10.1145/3379177.3388892},
+abstract = {Artificial Intelligence is becoming increasingly popular with organizations due to the success of Machine Learning and Deep Learning techniques. Using these techniques, data scientists learn from vast amounts of data to enhance behaviour in software-intensive systems. Despite the attractiveness of these techniques, however, there is a lack of systematic and structured design process for developing ML/DL models. The study uses a multiple-case study approach to explore the different activities and challenges data scientists face when developing ML/DL models in software-intensive embedded systems. In addition, we have identified seven different phases in the proposed design process leading to effective model development based on the case study. Iterations identified between phases and events which trigger these iterations optimize the design process for ML/DL models. Lessons learned from this study allow data scientists and engineers to develop high-performance ML/DL models and also bridge the gap between high demand and low supply of data scientists.},
+booktitle = {Proceedings of the International Conference on Software and System Processes},
+pages = {1–10},
+numpages = {10},
+keywords = {Artificial Intelligence, Deep Learning, Design, Machine Learning, Software Engineering},
+location = {Seoul, Republic of Korea},
+series = {ICSSP '20}
+}
+
+@article{10.1145/3610914,
+author = {Yfantidou, Sofia and Sermpezis, Pavlos and Vakali, Athena and Baeza-Yates, Ricardo},
+title = {Uncovering Bias in Personal Informatics},
+year = {2023},
+issue_date = {September 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+number = {3},
+url = {https://doi.org/10.1145/3610914},
+doi = {10.1145/3610914},
+abstract = {Personal informatics (PI) systems, powered by smartphones and wearables, enable people to lead healthier lifestyles by providing meaningful and actionable insights that break down barriers between users and their health information. Today, such systems are used by billions of users for monitoring not only physical activity and sleep but also vital signs and women's and heart health, among others. Despite their widespread usage, the processing of sensitive PI data may suffer from biases, which may entail practical and ethical implications. In this work, we present the first comprehensive empirical and analytical study of bias in PI systems, including biases in raw data and in the entire machine learning life cycle. We use the most detailed framework to date for exploring the different sources of bias and find that biases exist both in the data generation and the model learning and implementation streams. According to our results, the most affected minority groups are users with health issues, such as diabetes, joint issues, and hypertension, and female users, whose data biases are propagated or even amplified by learning models, while intersectional biases can also be observed.},
+journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+month = sep,
+articleno = {139},
+numpages = {30},
+keywords = {Personal informatics, bias, digital biomarkers, fairness, machine learning, sensing data, ubiquitous computing}
+}
+
+@inproceedings{10.1145/3484824.3484885,
+author = {Nitwane, Rashmi Kumaria and Bhagile, Vaishali Dattaray and Deshmukh, Ratnadeep R},
+title = {Use of Regression Models in the Analysis of Climatic Variables: A Case Study over the Aurangabad Region of Marathwada (Maharashtra, India)},
+year = {2022},
+isbn = {9781450387637},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3484824.3484885},
+doi = {10.1145/3484824.3484885},
+abstract = {Climate variables like Precipitation and Temperature are unpredictable and dynamic but their time series analysis can be fruitful in understanding the pattern of change over the years. The study is also useful for development of prediction tool for better monitoring services at regional scale. This paper investigates the historic monthly precipitation and mean temperature data of the Aurangabad region of Marathwada, Maharashtra, India with the help of regression models like ARIMA and WARMA. The dataset consists of 101 years monthly precipitation and mean temperature data starting from year 1901 - 2002. The Best ARIMA model for precipitation data of Aurangabad region of Marathwada India was ARIMA (0,0,0) (2,1,0) [12] with AICC values of 12969.19 And 12984.49 and for the mean temperature the best ARIMA model was ARIMA (1,0,1) (2,1,0) [12] with the corresponding AICC values of 3225.32 And 3255.92. Similarly, the Wavelet analysis on the same data set of precipitation and median temperature produced much more promising result. Therefore, instead of ARIMA model the Wavelet ARMA is much more efficient and useful.},
+booktitle = {Proceedings of the International Conference on Data Science, Machine Learning and Artificial Intelligence},
+pages = {171–177},
+numpages = {7},
+keywords = {ARIMA, Forecasting model, Precipitation, Wavelet Auto Regressive Moving Average (WARMA), temperature},
+location = {Windhoek, Namibia},
+series = {DSMLAI '21'}
+}
+
+@inproceedings{10.1145/3534678.3539088,
+author = {Agarwal, Prerna and Gao, Buyu and Huo, Siyu and Reddy, Prabhat and Dechu, Sampath and Obeidi, Yazan and Muthusamy, Vinod and Isahagian, Vatche and Carbajales, Sebastian},
+title = {A Process-Aware Decision Support System for Business Processes},
+year = {2022},
+isbn = {9781450393850},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3534678.3539088},
+doi = {10.1145/3534678.3539088},
+abstract = {Business processes in workflows comprise of an ordered sequence of tasks and decisions to accomplish certain business goals. Each decision point requires the input of a decision-maker to distill complex case information and make an optimal decision given their experience, organizational policy, and external contexts. Overlooking some of the essential factors or lack of knowledge can impact the throughput and business outcomes. Therefore, we propose an end-to-end automated decision support system with explanation for business processes. The system uses the proposed process-aware feature engineering methodology that extracts features from process and business data attributes. The system helps a decision-maker to make quick and quality decisions by predicting the decision and providing an explanation of the factors which led to the prediction. We provide offline and online training methods robust to data drift that can also incorporate user feedback. The system also support predictions with live instance data i.e., allow decision-makers to conduct trials on current data instance by modifying its business data attribute values. We evaluate our system on real-world and synthetic datasets and benchmark the performance, achieving an average of 15\% improvement over baselines.},
+booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+pages = {2673–2681},
+numpages = {9},
+keywords = {business processes, decision support systems, process-awareness},
+location = {Washington DC, USA},
+series = {KDD '22}
+}
+
+@inproceedings{10.1145/3366423.3380136,
+author = {Gao, Junyi and Xiao, Cao and Wang, Yasha and Tang, Wen and Glass, Lucas M. and Sun, Jimeng},
+title = {StageNet: Stage-Aware Neural Networks for Health Risk Prediction},
+year = {2020},
+isbn = {9781450370233},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3366423.3380136},
+doi = {10.1145/3366423.3380136},
+abstract = {Deep learning has demonstrated success in health risk prediction especially for patients with chronic and progressing conditions. Most existing works focus on learning disease patterns from longitudinal patient data, but pay little attention to the disease progression stage itself. To fill the gap, we propose a Stage-aware neural Network (StageNet) model to extract disease stage information from patient data and integrate it into risk prediction. StageNet is enabled by (1) a stage-aware long short-term memory (LSTM) module that extracts health stage variations unsupervisedly; (2) a stage-adaptive convolutional module that incorporates stage-related progression patterns into risk prediction. We evaluate StageNet on two real-world datasets and show that StageNet outperforms state-of-the-art models in risk prediction task and patient subtyping task. Compared to the best baseline model, StageNet achieves up to 12\% higher AUPRC for risk prediction task on two real-world patient datasets. StageNet also achieves over 58\% higher Calinski-Harabasz score (a cluster quality metric) for a patient subtyping task.},
+booktitle = {Proceedings of The Web Conference 2020},
+pages = {530–540},
+numpages = {11},
+keywords = {electronic health record, healthcare informatics, risk prediction},
+location = {Taipei, Taiwan},
+series = {WWW '20}
+}
+
+@proceedings{10.1145/3593013,
+title = {FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency},
+year = {2023},
+isbn = {9798400701924},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Chicago, IL, USA}
+}
+
+@inproceedings{10.1145/3342195.3387524,
+author = {Rzadca, Krzysztof and Findeisen, Pawel and Swiderski, Jacek and Zych, Przemyslaw and Broniek, Przemyslaw and Kusmierek, Jarek and Nowak, Pawel and Strack, Beata and Witusowski, Piotr and Hand, Steven and Wilkes, John},
+title = {Autopilot: workload autoscaling at Google},
+year = {2020},
+isbn = {9781450368827},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3342195.3387524},
+doi = {10.1145/3342195.3387524},
+abstract = {In many public and private Cloud systems, users need to specify a limit for the amount of resources (CPU cores and RAM) to provision for their workloads. A job that exceeds its limits might be throttled or killed, resulting in delaying or dropping end-user requests, so human operators naturally err on the side of caution and request a larger limit than the job needs. At scale, this results in massive aggregate resource wastage.To address this, Google uses Autopilot to configure resources automatically, adjusting both the number of concurrent tasks in a job (horizontal scaling) and the CPU/memory limits for individual tasks (vertical scaling). Autopilot walks the same fine line as human operators: its primary goal is to reduce slack - the difference between the limit and the actual resource usage - while minimizing the risk that a task is killed with an out-of-memory (OOM) error or its performance degraded because of CPU throttling. Autopilot uses machine learning algorithms applied to historical data about prior executions of a job, plus a set of finely-tuned heuristics, to walk this line. In practice, Autopiloted jobs have a slack of just 23\%, compared with 46\% for manually-managed jobs. Additionally, Autopilot reduces the number of jobs severely impacted by OOMs by a factor of 10.Despite its advantages, ensuring that Autopilot was widely adopted took significant effort, including making potential recommendations easily visible to customers who had yet to opt in, automatically migrating certain categories of jobs, and adding support for custom recommenders. At the time of writing, Autopiloted jobs account for over 48\% of Google's fleet-wide resource usage.},
+booktitle = {Proceedings of the Fifteenth European Conference on Computer Systems},
+articleno = {16},
+numpages = {16},
+location = {Heraklion, Greece},
+series = {EuroSys '20}
+}
+
+@inproceedings{2248467.2248468,
+author = {Vilardaga, Santi and Serrano, Daniel and Bas, Isidro and Roig, Joan and Batlle, Jordi},
+title = {Advanced automation in air traffic simulation for ATM disturbances assessment},
+year = {2011},
+isbn = {9781450315067},
+publisher = {IRIT Press},
+address = {Toulouse, FRA},
+abstract = {In the context of an ever increasing complexity in ATM, there is a need for mechanisms to automatically assess new procedures and concepts and their impact into global and specific airspace. To this purpose, this study describes the development of a complex system (system of systems): a simulated Air Traffic environment to analyse the effect of Wake Vortices to trailing aircraft in different flight phases. This project is part of AVANT: a project part-funded by the European Regional Development Fund (ERDF) under the Regional Competitiveness and Employment.},
+booktitle = {Proceedings of the 1st International Conference on Application and Theory of Automation in Command and Control Systems},
+pages = {1–4},
+numpages = {4},
+keywords = {4D trajectory, air traffic management (ATM), assessment and analysis tool, augmented cognition, communication navigation surveillance (CNS), conflict resolution, simulation, virtual reality, wake vortex (WV)},
+location = {Barcelona, Spain},
+series = {ATACCS '11}
+}
+
+@proceedings{10.1145/3588001,
+editor = {Melissa Densmore, Monojit Choudhury and Josiah Chavula},
+title = {COMPASS '23: Proceedings of the 6th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies},
+year = {2023},
+isbn = {9798400701498},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Cape Town, South Africa}
+}
+
+@proceedings{10.1145/3743093,
+editor = {Tat-Seng Chua, Lai-Kuan Wong, Chee Seng Chan, Jinhui Tang, Chong-Wah Ngo, Klaus Schoeffmann, Jiaying Liu and Yo-Sung Ho},
+title = {MMAsia '25: Proceedings of the 7th ACM International Conference on Multimedia in Asia},
+year = {2025},
+isbn = {9798400720055},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {
+}
+}
+
+@proceedings{10.1145/3613904,
+editor = {Florian Floyd Mueller, Penny Kyburz, Julie R. Williamson, Corina Sas, Max L. Wilson, Phoebe Toups Dugas and Irina Shklovski},
+title = {CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
+year = {2024},
+isbn = {9798400703300},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Honolulu, HI, USA}
+}
+
+@proceedings{10.1145/3664647,
+title = {MM '24: Proceedings of the 32nd ACM International Conference on Multimedia},
+year = {2024},
+isbn = {9798400706868},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+abstract = {We are delighted to welcome you to Melbourne, Australia for ACM Multimedia 2024, the 32nd ACM International Conference on Multimedia. ACM Multimedia is the premier international conference series in the area of multimedia within the field of computer science. Since 1993, ACM Multimedia has been bringing together worldwide researchers and practitioners from academia and industry to present their innovative research and to discuss recent advancements in multimedia.For the first time since the end of the COVID-19 pandemic, this year's conference returns to the Asia-Pacific region and resumes as a full-fledged, inperson event. With no travel restrictions or significant visa challenges, we are excited to once again experience the warmth of face-to-face gatherings, where we can reconnect with colleagues and friends.The enthusiasm and support from the community have been incredible. ACM Multimedia 2024 received over 4,300 main conference submissions, accepting more than 1,100 papers (please refer to the TPC Chairs' message for details). In addition, 10 Grand Challenges were selected from 22 submissions, 18 workshops from 30 submissions, and 8 tutorials from 13 proposals. We've prepared an exciting five-day program: workshops, grand challenges, and tutorials will be held on the 1st and 5th days, with the main conference occupying the middle three days. All accepted papers will be accessible online prior to the conference, and we are working to ensure proceedings are available through the ACM Digital Library around the conference period.This year's conference features three distinguished academic keynote speeches, several prestigious SIGMM award talks, a panel discussion on Generative AI in Multimedia, a refreshed Brave New Idea (BNI) session, and our inaugural industry program.The opening keynote will be delivered by Prof. Pascale Fung from HKUST, a Fellow of AAAI, ACL, and IEEE. Her talk will explore the pressing topic of Agents in the Large Language Model (LLM) Era. Prof. Judy Kay from the University of Sydney, a renowned expert in HCI, user modeling, and ubiquitous computing, will give the second keynote on how to empower individuals to harness and control their multimodal data. The final academic keynote will be presented by Prof. Jiebo Luo from the University of Rochester, a Fellow of ACM, AAAI, IEEE, SPIE, and IAPR, as well as a member of Academia Europaea and the US National Academy of Inventors. He will discuss leveraging LLMs as social multimedia analysis engines.This year, we continue using OpenReview to ensure an open and transparent review process. Thanks to the exceptional efforts of the technical program committee, every paper received at least three reviews before the review announcement. The BNI track has also revamped its review process to align with the main conference, promoting visionary papers. Additionally, we are excited to introduce the industry program to ACM Multimedia for the first time, featuring industry keynote speeches, expert talks, and demonstrations (please refer to the industry chairs' message for further details).We are also committed to making the conference inclusive and accessible. To support students with financial constraints, we have awarded travel grants to at least 25 students from the ACM Multimedia 2024 budget, with an additional 20+ students receiving SIGMM travel grants. Over 20 local students have also been recruited as volunteers, benefiting from complimentary registration. Furthermore, we have arranged childcare facilities to accommodate attendees with young children. A welcome reception will take place on the 2nd day of the conference, followed by a gala dinner on the 3rd day, featuring exciting cultural performances.We hope you find this year's program engaging and thought-provoking and that it offers valuable opportunities to exchange ideas with fellow researchers and practitioners from around the globe. We also encourage you to take time to explore the beautiful city of Melbourne and its surrounding regions.},
+location = {Melbourne VIC, Australia}
+}
+

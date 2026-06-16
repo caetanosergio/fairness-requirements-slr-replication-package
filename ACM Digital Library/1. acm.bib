@@ -1,0 +1,228 @@
+@inproceedings{10.1145/3630106.3659044,
+author = {Smith, Jessie J. and Satwani, Aishwarya and Burke, Robin and Fiesler, Casey},
+title = {Recommend Me? Designing Fairness Metrics with Providers},
+year = {2024},
+isbn = {9798400704505},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3630106.3659044},
+doi = {10.1145/3630106.3659044},
+abstract = {Fairness metrics have become a useful tool to measure how fair or unfair a machine learning system may be for its stakeholders. In the context of recommender systems, previous research has explored how various stakeholders experience algorithmic fairness or unfairness, but it is also important to capture these experiences in the design of fairness metrics. Therefore, we conducted four focus groups with providers (those whose items, content, or profiles are being recommended) of two different domains: content creators and dating app users. We explored how our participants experience unfairness on their associated platforms, and worked with them to co-design fairness goals, definitions, and metrics that might capture these experiences. This work represents an important step towards designing fairness metrics with the stakeholders who will be impacted by their operationalizations. We analyze the efficacy and challenges of enacting these metrics in practice and explore how future work might benefit from this methodology.},
+booktitle = {Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency},
+pages = {2389–2399},
+numpages = {11},
+keywords = {Fairness, Focus Groups, Metrics, Recommendation},
+location = {Rio de Janeiro, Brazil},
+series = {FAccT '24}
+}
+
+@inproceedings{10.1145/3715275.3732003,
+author = {Sabuncuoglu, Alpay and Burr, Christopher and Maple, Carsten},
+title = {Justified Evidence Collection for Argument-based AI Fairness Assurance},
+year = {2025},
+isbn = {9798400714825},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3715275.3732003},
+doi = {10.1145/3715275.3732003},
+abstract = {It is well recognised that ensuring fair AI systems is a complex sociotechnical challenge, which requires careful deliberation and continuous oversight across all stages of a system’s lifecycle, from defining requirements to model deployment and deprovisioning. Dynamic argument-based assurance cases, which present structured arguments supported by evidence, have emerged as a systematic approach to evaluating and mitigating safety risks and hazards in AI-enabled system development and have also been extended to deal with broader normative goals such as fairness and explainability. This paper introduces a systems-engineering-driven framework, supported by software tooling, to operationalise a dynamic approach to argument-based assurance in two stages. In the first stage, during the requirements planning phase, a multi-disciplinary and multi-stakeholder team define goals and claims to be established (and evidenced) by conducting a comprehensive fairness governance process. In the second stage, a continuous monitoring interface gathers evidence from existing artefacts (e.g. metrics from automated tests), such as model, data, and use case documentation, to support these arguments dynamically. The framework’s effectiveness is demonstrated through an illustrative case study in finance, with a focus on supporting fairness-related arguments.},
+booktitle = {Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency},
+pages = {18–28},
+numpages = {11},
+keywords = {trustworthy and ethical assurance, continuous fairness monitoring, system transparency artefacts, large language models in finance},
+location = {
+},
+series = {FAccT '25}
+}
+
+@article{10.1145/3652891,
+author = {Ge, Yingqiang and Liu, Shuchang and Fu, Zuohui and Tan, Juntao and Li, Zelong and Xu, Shuyuan and Li, Yunqi and Xian, Yikun and Zhang, Yongfeng},
+title = {A Survey on Trustworthy Recommender Systems},
+year = {2024},
+issue_date = {June 2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {2},
+url = {https://doi.org/10.1145/3652891},
+doi = {10.1145/3652891},
+abstract = {Recommender systems (RS), serving at the forefront of Human-centered AI, are widely deployed in almost every corner of the web and facilitate the human decision-making process. However, despite their enormous capabilities and potential, RS may also lead to undesired effects on users, items, producers, platforms, or even the society at large, such as compromised user trust due to non-transparency, unfair treatment of different consumers, or producers, privacy concerns due to extensive use of user’s private data for personalization, just to name a few. All of these create an urgent need for Trustworthy Recommender Systems (TRS) so as to mitigate or avoid such adverse impacts and risks. In this survey, we will introduce techniques related to trustworthy recommendation, including but not limited to explainable recommendation, fairness in recommendation, privacy-aware recommendation, robustness in recommendation, user-controllable recommendation, as well as the relationship between these different perspectives in terms of trustworthy recommendation. Through this survey, we hope to deliver readers with a comprehensive view of the research area and raise attention to the community about the importance, existing research achievements, and future research directions on trustworthy recommendation.},
+journal = {ACM Trans. Recomm. Syst.},
+month = nov,
+articleno = {13},
+numpages = {68},
+keywords = {Recommender Systems, Trustworthiness, Explainability, Fairness, Privacy, Robustness, Controllability}
+}
+
+@inproceedings{10.1145/3461702.3462516,
+author = {Keswani, Vijay and Lease, Matthew and Kenthapadi, Krishnaram},
+title = {Towards Unbiased and Accurate Deferral to Multiple Experts},
+year = {2021},
+isbn = {9781450384735},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3461702.3462516},
+doi = {10.1145/3461702.3462516},
+abstract = {Machine learning models are often implemented in cohort with humans in the pipeline, with the model having an option to defer to a domain expert in cases where it has low confidence in its inference. Our goal is to design mechanisms for ensuring accuracy and fairness in such prediction systems that combine machine learning model inferences and domain expert predictions. Prior work on "deferral systems" in classification settings has focused on the setting of a pipeline with a single expert and aimed to accommodate the inaccuracies and biases of this expert to simultaneously learn an inference model and a deferral system. Our work extends this framework to settings where multiple experts are available, with each expert having their own domain of expertise and biases. We propose a framework that simultaneously learns a classifier and a deferral system, with the deferral system choosing to defer to one or more human experts in cases of input where the classifier has low confidence. We test our framework on a synthetic dataset and a content moderation dataset with biased synthetic experts, and show that it significantly improves the accuracy and fairness of the final predictions, compared to the baselines. We also collect crowdsourced labels for the content moderation task to construct a real-world dataset for the evaluation of hybrid machine-human frameworks and show that our proposed framework outperforms baselines on this real-world dataset as well.},
+booktitle = {Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society},
+pages = {154–165},
+numpages = {12},
+keywords = {hybrid human-machine frameworks, fairness, deferral models},
+location = {Virtual Event, USA},
+series = {AIES '21}
+}
+
+@inproceedings{10.1145/3705328.3748079,
+author = {Kaya, Mesut and Bogers, Toine},
+title = {Mapping Stakeholder Needs to Multi-Sided Fairness in Candidate Recommendation for Algorithmic Hiring},
+year = {2025},
+isbn = {9798400713644},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3705328.3748079},
+doi = {10.1145/3705328.3748079},
+abstract = {Already before the enactment of the EU AI Act, candidate or job recommendation for algorithmic hiring—semi-automatically matching CVs to job postings—was used as an example of a high-risk application where unfair treatment could result in serious harms to job seekers. Recommending candidates to jobs or jobs to candidates, however, is also a fitting example of a multi-stakeholder recommendation problem. In such multi-stakeholder systems, the end user is not the only party whose interests should be considered when generating recommendations. In addition to job seekers, other stakeholders—such as recruiters, organizations behind the job postings, and the recruitment agency itself—are also stakeholders in this and deserve to have their perspectives included in the design of relevant fairness metrics. Nevertheless, past analyses of fairness in algorithmic hiring have been restricted to single-side fairness, ignoring the perspectives of the other stakeholders. In this paper, we address this gap and present a multi-stakeholder approach to fairness in a candidate recommender system that recommends relevant candidate CVs to human recruiters in a human-in-the-loop algorithmic hiring scenario. We conducted semi-structured interviews with 40 different stakeholders (job seekers, companies, recruiters, and other job portal employees). We used these interviews to explore their lived experiences of unfairness in hiring, co-design definitions of fairness as well as metrics that might capture these experiences. Finally, we attempt to reconcile and map these different (and sometimes conflicting) perspectives and definitions to existing (categories of) fairness metrics that are relevant for our candidate recommendation scenario.},
+booktitle = {Proceedings of the Nineteenth ACM Conference on Recommender Systems},
+pages = {257–267},
+numpages = {11},
+keywords = {Algorithmic Fairness, HR, Job Recommendation},
+location = {
+},
+series = {RecSys '25}
+}
+
+@inproceedings{3716662.3716759,
+author = {Papageorgiou, Ioanna},
+title = {Proxy Fairness under the European Data Protection Regulation and the AI Act: A Perspective of Sensitivity and Necessity},
+year = {2025},
+publisher = {AAAI Press},
+abstract = {This paper navigates the convergence of the European Data Protection Regulation and the AI Act within the paradigm of computational methods that operationalise fairness in the absence of demographic data, notably through the use of proxy variables and inferential techniques (Proxy Fairness). Particularly, it explores the legal nature of the data involved in Proxy Fairness under the European Data Protection Regulation, focusing on the legal notion of Sensitivity. Moreover, it examines the lawfulness of processing sensitive personal data for Proxy Fairness purposes under the AI Act, particularly focusing on the legal requirement of Necessity. Through this analysis, the paper aims to shed light on core aspects of the legitimacy of Proxy Fairness in the context of EU law, providing a normative foundation to this line of Fair-AI approaches.},
+booktitle = {Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society},
+pages = {1112–1122},
+numpages = {11},
+location = {San Jose, California, USA},
+series = {AIES '24}
+}
+
+@proceedings{10.1145/3715275,
+title = {FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency},
+year = {2025},
+isbn = {9798400714825},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {
+}
+}
+
+@article{10.1145/3637360,
+author = {Sarkar, Priya and Liem, Cynthia C. S.},
+title = {"It's the most fair thing to do but it doesn't make any sense": Perceptions of Mathematical Fairness Notions by Hiring Professionals},
+year = {2024},
+issue_date = {April 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {8},
+number = {CSCW1},
+url = {https://doi.org/10.1145/3637360},
+doi = {10.1145/3637360},
+abstract = {We explore the alignment of organizational representatives involved in hiring processes with five different, commonly proposed fairness notions. In a qualitative study with 17 organizational professionals, for each notion, we investigate their perception of understandability, fairness, potential to increase diversity, and practical applicability in the context of early candidate selection in hiring. In this, we do not explicitly frame our questions as questions of algorithmic fairness, but rather relate them to current human hiring practice. As our findings show, while many notions are well understood, fairness, potential to increase diversity and practical applicability are rated differently, illustrating the importance of understanding the application domain and its nuances, and calling for more interdisciplinary and human-centered research into the perception of mathematical fairness notions.},
+journal = {Proc. ACM Hum.-Comput. Interact.},
+month = apr,
+articleno = {83},
+numpages = {35},
+keywords = {algorithmic fairness, hiring and early candidate selection, operationalization, personnel selection, user studies}
+}
+
+@proceedings{10.1145/3630106,
+title = {FAccT '24: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency},
+year = {2024},
+isbn = {9798400704505},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Rio de Janeiro, Brazil}
+}
+
+@proceedings{10.1145/3640457,
+editor = {Tommaso Di Noia, Pasquale Lops, Thorsten Joachims, Katrien Verbert, Pablo Castells, Zhenhua Dong and Ben London},
+title = {RecSys '24: Proceedings of the 18th ACM Conference on Recommender Systems},
+year = {2024},
+isbn = {9798400705052},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Bari, Italy}
+}
+
+@proceedings{10.1145/3705328,
+title = {RecSys '25: Proceedings of the Nineteenth ACM Conference on Recommender Systems},
+year = {2025},
+isbn = {9798400713644},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {
+}
+}
+
+@inproceedings{10.1145/3640457.3688169,
+author = {Xu, Lanling and Lin, Zihan and Wang, Jinpeng and Chen, Sheng and Zhao, Wayne Xin and Wen, Ji-Rong},
+title = {Promoting Two-sided Fairness with Adaptive Weights for Providers and Customers in Recommendation},
+year = {2024},
+isbn = {9798400705052},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3640457.3688169},
+doi = {10.1145/3640457.3688169},
+abstract = {At present, most recommender systems involve two stakeholders, providers and customers. Apart from maximizing the recommendation accuracy, the fairness issue for both sides should also be considered. Most of previous studies try to improve two-sided fairness with post-processing algorithms or fairness-aware loss constraints, which are highly dependent on the heuristic adjustments without respect to the optimization goal of accuracy. In contrast, we propose a novel training framework, adaptive weighting towards two-sided fairness-aware recommendation&nbsp;(named Ada2Fair), which lies in the extension of the accuracy-focused objective to a controllable preference learning loss over the interaction data. Specifically, we adjust the optimization scale of an interaction sample with an adaptive weight generator, and estimate the two-sided fairness-aware weights within model training. During the training process, the recommender is trained with two-sided fairness-aware weights to boost the utility of niche providers and inactive customers in a unified way. Extensive experiments on three public datasets verify the effectiveness of&nbsp;Ada2Fair, which can achieve Pareto efficiency in two-sided fairness-aware recommendation.},
+booktitle = {Proceedings of the 18th ACM Conference on Recommender Systems},
+pages = {918–923},
+numpages = {6},
+keywords = {Fairness-aware Recommendation, Recommender Systems},
+location = {Bari, Italy},
+series = {RecSys '24}
+}
+
+@proceedings{10.1145/3626772,
+title = {SIGIR '24: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+year = {2024},
+isbn = {9798400704314},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+abstract = {Welcome to the 47th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), taking place in Washington D.C., USA, from July 14 to 18, 2024.SIGIR serves as the foremost international forum for the presentation of groundbreaking research findings, the demonstration of innovative systems and techniques, and the exploration of forwardthinking research directions in the field of information retrieval.This year's SIGIR is an in-person conference. We believe that an in-person conference is beneficial for several reasons: it fosters direct engagement and networking opportunities, enhances the exchange of research ideas, contributes to a more dynamic and productive conference experience, and nurtures our research community by welcoming newcomers, providing them with the opportunity to become acquainted with SIGIR traditions. This decision has not been made lightly. We understand the challenges that can pose in the aftermath of a pandemic and amidst the uncertainties of the world around us. To accommodate those who cannot attend, we have implemented a series of measures such as proxy presenters, livestreaming, and recording sessions. These steps are taken to ensure that everyone has access to the valuable content that the conference offers.},
+location = {Washington DC, USA}
+}
+
+@article{10.14778/3583140.3583168,
+author = {Pujol, David and Gilad, Amir and Machanavajjhala, Ashwin},
+title = {PreFair: Privately Generating Justifiably Fair Synthetic Data},
+year = {2023},
+issue_date = {February 2023},
+publisher = {VLDB Endowment},
+volume = {16},
+number = {6},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3583140.3583168},
+doi = {10.14778/3583140.3583168},
+abstract = {When a database is protected by Differential Privacy (DP), its usability is limited in scope. In this scenario, generating a synthetic version of the data that mimics the properties of the private data allows users to perform any operation on the synthetic data, while maintaining the privacy of the original data. Therefore, multiple works have been devoted to devising systems for DP synthetic data generation. However, such systems may preserve or even magnify properties of the data that make it unfair, rendering the synthetic data unfit for use. In this work, we present PreFair, a system that allows for DP fair synthetic data generation. PreFair extends the state-of-the-art DP data generation mechanisms by incorporating a causal fairness criterion that ensures fair synthetic data. We adapt the notion of justifiable fairness to fit the synthetic data generation scenario. We further study the problem of generating DP fair synthetic data, showing its intractability and designing algorithms that are optimal under certain assumptions. We also provide an extensive experimental evaluation, showing that PreFair generates synthetic data that is significantly fairer than the data generated by leading DP data generation mechanisms, while remaining faithful to the private data.},
+journal = {Proc. VLDB Endow.},
+month = feb,
+pages = {1573–1586},
+numpages = {14}
+}
+
+@inproceedings{10.1145/3035918.3064018,
+author = {Kunjir, Mayuresh and Fain, Brandon and Munagala, Kamesh and Babu, Shivnath},
+title = {ROBUS: Fair Cache Allocation for Data-parallel Workloads},
+year = {2017},
+isbn = {9781450341974},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3035918.3064018},
+doi = {10.1145/3035918.3064018},
+abstract = {Systems for processing big data---e.g., Hadoop, Spark, and massively parallel databases---need to run workloads on behalf of multiple tenants simultaneously. The abundant disk-based storage in these systems is usually complemented by a smaller, but much faster, cache. Cache is a precious resource: Tenants who get to use the cache can see two orders of magnitude performance improvement. Cache is also a limited and hence shared resource: Unlike a resource like a CPU core which can be used by only one tenant at a time, a cached data item can be accessed by multiple tenants at the same time. Cache, therefore, has to be shared by a multi-tenancy-aware policy across tenants, each having a unique set of priorities and workload characteristics.In this paper, we develop cache allocation strategies that speed up the overall workload while being fair to each tenant. We build a novel fairness model targeted at the shared resource setting that incorporates not only the more standard concepts of Pareto-efficiency and sharing incentive, but we also define envy freeness via the notion of core from cooperative game theory. Our cache management platform, ROBUS, uses randomization over small time batches, and we develop a proportionally fair allocation mechanism that satisfies the core property in expectation. We show that this algorithm and related fair algorithms can be approximated to arbitrary precision in polynomial time. We evaluate these algorithms on a ROBUS prototype implemented on Spark with RDD store used as cache. Our evaluation on an industry-standard workload shows that our algorithms score high on both performance and fairness metrics across a wide variety of practical multi-tenant setups.},
+booktitle = {Proceedings of the 2017 ACM International Conference on Management of Data},
+pages = {219–234},
+numpages = {16},
+keywords = {proportional fairness, multi-tenancy, data analytics, cache management},
+location = {Chicago, Illinois, USA},
+series = {SIGMOD '17}
+}
+
