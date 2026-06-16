@@ -35,35 +35,40 @@ fairness-requirements-slr-replication-package/
 
 ## Data files
 
-| File | Data rows | Columns |
-|---|---:|---:|
-| `coded_csv/Papers_coded.csv` | 110 | 65 |
-| `coded_csv/RQ1_levels.csv` | 107 | 65 |
-| `coded_csv/RQ2_operationalization.csv` | 110 | 65 |
-| `coded_csv/RQ3_overtime.csv` | 10 | 65 |
-| `coded_csv/Data_Extraction.csv` | 110 | 65 |
-| `coded_csv/Domain.csv` | 110 | 65 |
+| File                                   | Data rows | Columns |
+| -------------------------------------- | --------: | ------: |
+| `coded_csv/Papers_coded.csv`           |       110 |      65 |
+| `coded_csv/RQ1_levels.csv`             |       107 |      65 |
+| `coded_csv/RQ2_operationalization.csv` |       110 |      65 |
+| `coded_csv/RQ3_overtime.csv`           |        10 |      65 |
+| `coded_csv/Data_Extraction.csv`        |       110 |      65 |
+| `coded_csv/Domain.csv`                 |       110 |      65 |
 
 Notes:
-- `final_dataset/fairness_slr_results.xlsx` is the workbook-style extraction database supplied with the package.
-- `coded_csv/RQ1_levels.csv`, `coded_csv/RQ2_operationalization.csv`, and `coded_csv/RQ3_overtime.csv` provide RQ-specific analysis views.
-- Some raw CSV exports preserve earlier coding-pass records; the manuscript's final analytical corpus is **107 studies**. The package keeps the raw exports transparent rather than silently deleting records.
 
-## PDF exports
+* `final_dataset/fairness_slr_results.xlsx` is the workbook-style extraction database supplied with the package.
+* `coded_csv/RQ1_levels.csv`, `coded_csv/RQ2_operationalization.csv`, and `coded_csv/RQ3_overtime.csv` provide RQ-specific analysis views.
+* Some raw CSV exports preserve earlier coding-pass records; the manuscript's final analytical corpus is **107 studies**. The package keeps the raw exports transparent rather than silently deleting records.
 
-The `exports/pdf_views/` folder includes PDF snapshots of key database views:
+## PDF and exported views
 
-- `RQ1_Levels.pdf`
-- `RQ2_Operationalization.pdf`
-- `RQ3_Overtime.pdf`
-- `Fairness_RE_SLR_Extraction_Database.pdf`
-- `ByDomain.pdf`
+PDF/exported views are provided directly in the repository and in the `docs/` folder for convenient inspection of the study-selection process, extraction database, and coding evidence.
 
-These are included for convenient visual inspection of the coding sheets.
+Key PDF/exported views include:
+
+* `Fairness_RE_SLR_Extraction_Database.pdf`
+* `docs/Figure4_Study_Selection_Replication_Demo_802.pdf`
+* `docs/STUDY_SELECTION_DEMONSTRATION_802_TO_107.pdf`
+
+These files support visual inspection of the extraction database, study-selection flow, and replication-oriented 802-record screening demonstration.
 
 ## Per-study notes
 
-The `per_study_notes/` folder includes individual markdown notes for the uploaded study notes P001-P008. These notes provide example study-level coding, gap summaries, QA notes, and evidence snippets.
+The `per_study_notes/` folder includes formatted Markdown notes for study-level inspection. These notes provide example study-level coding, gap summaries, QA notes, evidence snippets, and structured tables for readability on GitHub.
+
+The full coding-pass note archive is also preserved as:
+
+* `per_study_notes_all_coding_pass.zip`
 
 ## Reproducing basic checks
 
@@ -85,24 +90,30 @@ These scripts do not require external dependencies beyond Python 3.
 
 The review organizes the coding around two complementary axes:
 
-1. **Level axis: ENV / DES / SOC**  
+1. **Level axis: ENV / DES / SOC**
    This axis captures where fairness is grounded: deployment environment, system design, and sociotechnical deployment.
 
-2. **Lifecycle axis: ELICIT / SPEC / OPER / VALID / MON / REVISE**  
+2. **Lifecycle axis: ELICIT / SPEC / OPER / VALID / MON / REVISE**
    This axis captures how fairness is engineered over time as a requirements lifecycle.
 
 ## Transparency materials
 
 The package includes:
 
-- coded CSV exports;
-- final workbook export;
-- RQ-specific PDF exports;
-- per-study notes for uploaded study-note examples;
-- file manifest;
-- SHA-256 checksums;
-- data dictionary;
-- reproduction and GitHub upload instructions.
+* coded CSV exports;
+* final workbook export;
+* RQ-specific analysis views;
+* source-database metadata;
+* search and screening logs;
+* study-selection demonstration files;
+* per-study notes;
+* source-database export evidence;
+* search screenshot evidence;
+* file manifest;
+* SHA-256 checksums;
+* data dictionary;
+* validation scripts;
+* reproduction and GitHub upload instructions.
 
 ## How to cite
 
@@ -131,23 +142,25 @@ For the sake of replication, inspectability, and package size, the **record-leve
 
 This means:
 
-- **802 is a demonstration subset for traceability**, not the initial corpus size.
-- The **actual study** began with **4,010 initial records** and ended with **107 final primary studies**.
-- The package preserves **both** the full summary flow and the 802-record demonstration trace.
+* **802 is a demonstration subset for traceability**, not the initial corpus size.
+* The **actual study** began with **4,010 initial records** and ended with **107 final primary studies**.
+* The package preserves **both** the full summary flow and the 802-record demonstration trace.
 
 ### Key files
 
-- `search_screening/Fairness_RE_SLR_Screening_Flow.csv` — full summary flow for the study.
-- `search_screening/Fairness_RE_SLR_Screening_Reduction_Steps.csv` — reduction-step summary with counts and reasons.
-- `search_screening/Fairness_RE_SLR_Search_Runs.csv` — source-by-source search-run summary.
-- `search_screening/Fairness_RE_SLR_Source_Database_Metadata_Extracted.csv` — all extracted records from available BibTeX/CSV source exports.
-- `search_screening/Fairness_RE_SLR_Source_Database_Metadata_Deduplicated.csv` — deduplicated source-export metadata.
-- `search_screening/Fairness_RE_SLR_Title_Abstract_Screening_Metadata_802.csv` — metadata-backed 802-record title/abstract screening pool.
-- `search_screening/Fairness_RE_SLR_802_Record_Level_Screening_Decisions.csv` — record-level trace for the 802-screened candidates through the later reduction stages.
-- `search_screening/Fairness_RE_SLR_802_to_107_Screening_Flow.csv` — compact 802-to-107 screening flow.
-- `search_screening/Fairness_RE_SLR_Source_Metadata_Examples.csv` — examples extracted directly from the source database metadata files.
-- `search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv` — step-by-step search demonstration.
-- `docs/Figure4_Study_Selection_Replication_Demo_802.tex` and `docs/Figure4_Study_Selection_Replication_Demo_802.pdf` — replication-oriented diagram matching the study-selection flow while clarifying that the package demonstrates the **802-record** trace.
-- `ACM Digital Library/, IEEE Xplore/, SpringerLink/, ScienceDirect/, and Google Scholar/` — extracted BibTeX/CSV export files from the source databases.
+* `search_screening/Fairness_RE_SLR_Screening_Flow.csv` — full summary flow for the study.
+* `search_screening/Fairness_RE_SLR_Screening_Reduction_Steps.csv` — reduction-step summary with counts and reasons.
+* `search_screening/Fairness_RE_SLR_Search_Runs.csv` — source-by-source search-run summary.
+* `search_screening/Fairness_RE_SLR_Source_Database_Metadata_Extracted.csv` — all extracted records from available BibTeX/CSV source exports.
+* `search_screening/Fairness_RE_SLR_Source_Database_Metadata_Deduplicated.csv` — deduplicated source-export metadata.
+* `search_screening/Fairness_RE_SLR_Title_Abstract_Screening_Metadata_802.csv` — metadata-backed 802-record title/abstract screening pool.
+* `search_screening/Fairness_RE_SLR_802_Record_Level_Screening_Decisions.csv` — record-level trace for the 802-screened candidates through the later reduction stages.
+* `search_screening/Fairness_RE_SLR_802_to_107_Screening_Flow.csv` — compact 802-to-107 screening flow.
+* `search_screening/Fairness_RE_SLR_Source_Metadata_Examples.csv` — examples extracted directly from the source database metadata files.
+* `search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv` — step-by-step search demonstration.
+* `docs/Figure4_Study_Selection_Replication_Demo_802.tex` and `docs/Figure4_Study_Selection_Replication_Demo_802.pdf` — replication-oriented diagram matching the study-selection flow while clarifying that the package demonstrates the **802-record** trace.
+* `docs/STUDY_SELECTION_DEMONSTRATION_802_TO_107.tex` and `docs/STUDY_SELECTION_DEMONSTRATION_802_TO_107.pdf` — study-selection demonstration document.
+* `ACM Digital Library/`, `IEEE Xplore/`, `SpringerLink/`, `ScienceDirect/`, and `Google Scholar/` — extracted BibTeX/CSV export files and source-database evidence.
+* `search_screenshots/` — screenshot evidence supporting the search-screening trace.
 
-The package does **not** include copyrighted full-text PDFs of the 4,010 retrieved records; it provides metadata, screening decisions, and final coded extraction data instead.
+The package does **not** include copyrighted full-text PDFs of the 4,010 retrieved records. It provides metadata, screening decisions, study-selection traceability, and final coded extraction data instead.
