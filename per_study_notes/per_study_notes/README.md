@@ -2,7 +2,7 @@
 
 This folder contains GitHub-readable Markdown versions of the per-study coding notes.
 
-The notes are formatted in a structured property-table style inspired by the exported PDF view used for study-level extraction inspection. Each file includes:
+The notes are formatted in a structured property-table style for study-level extraction inspection. Each file includes:
 
 - study identity and corpus metadata;
 - ENV/DES/SOC requirements coverage;
