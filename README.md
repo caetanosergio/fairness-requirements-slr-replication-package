@@ -8,24 +8,29 @@ The review analyzes fairness as an explicit, testable, traceable, monitorable, a
 
 ## What is included
 
-Some large or file-dense folders are provided as ZIP archives in the repository root to avoid GitHub browser upload limits. These archives contain the per-study coding-pass notes, source-database export evidence, and search screenshot evidence used to support the screening/search trace.
+Some file-dense materials are provided either as folders or ZIP archives to support reviewer inspection while avoiding GitHub browser upload limits. The source-database evidence is organized by database folder, including ACM Digital Library, IEEE Xplore, SpringerLink, ScienceDirect, and Google Scholar. Search screenshot evidence is provided in `search_screenshots/`. The formatted study-level notes are provided in `per_study_notes/`, while the full coding-pass notes are archived in `per_study_notes_all_coding_pass.zip`.
 
 ```text
 fairness-requirements-slr-replication-package/
 ├── README.md
 ├── LICENSE.md
 ├── CITATION.cff
+├── Fairness_RE_SLR_Extraction_Database.pdf
 ├── coded_csv/
 ├── final_dataset/
 ├── search_screening/
 ├── docs/
-├── exports/
 ├── metadata/
 ├── ocr_text_by_screenshot/
+├── per_study_notes/
 ├── scripts/
-├── per_study_notes_all_coding_pass.zip
-├── search_source_database_exports.zip
-└── search_screenshots.zip
+├── search_screenshots/
+├── ACM Digital Library/
+├── Google Scholar/
+├── IEEE Xplore/
+├── ScienceDirect/
+├── SpringerLink/
+└── per_study_notes_all_coding_pass.zip
 ```
 
 ## Data files
