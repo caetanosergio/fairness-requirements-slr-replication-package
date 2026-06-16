@@ -139,7 +139,7 @@ This means:
 - `data/search_screening/Fairness_RE_SLR_802_Record_Level_Screening_Decisions.csv` — record-level trace for the 802-screened candidates through the later reduction stages.
 - `data/search_screening/Fairness_RE_SLR_802_to_107_Screening_Flow.csv` — compact 802-to-107 screening flow.
 - `data/search_screening/Fairness_RE_SLR_Source_Metadata_Examples.csv` — examples extracted directly from the source database metadata files.
-- `data/search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv` — step-by-step search demonstration aligned with the handwritten search-log instruction.
+- `data/search_screening/Fairness_RE_SLR_Search_Demonstration_Steps.csv` — step-by-step search demonstration.
 - `docs/Figure4_Study_Selection_Replication_Demo_802.tex` and `docs/Figure4_Study_Selection_Replication_Demo_802.pdf` — replication-oriented diagram matching the study-selection flow while clarifying that the package demonstrates the **802-record** trace.
 - `data/search_screening/raw_search_exports/source_database_bib_csv_exports/` — extracted BibTeX/CSV export files from the source databases.
 
