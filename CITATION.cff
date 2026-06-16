@@ -7,7 +7,7 @@ authors:
     given-names: Sergio Paulo
   - family-names: Lee
     given-names: Seok-Won
-repository-code: "INSERT_GITHUB_URL_HERE"
+repository-code: "https://github.com/caetanosergio/fairness-requirements-slr-replication-package.git"
 date-released: "2026-06-15"
 version: "1.0-reviewer-revision"
 license: "License to be confirmed by authors"
