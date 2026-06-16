@@ -8,22 +8,24 @@ The review analyzes fairness as an explicit, testable, traceable, monitorable, a
 
 ## What is included
 
-Some large or file-dense folders are provided as ZIP archives to avoid GitHub browser upload limits. These archives contain the per-study coding-pass notes, source-database export evidence, and search screenshot evidence used to support the screening/search trace.
+Some large or file-dense folders are provided as ZIP archives in the repository root to avoid GitHub browser upload limits. These archives contain the per-study coding-pass notes, source-database export evidence, and search screenshot evidence used to support the screening/search trace.
 
 ```text
 fairness-requirements-slr-replication-package/
 ├── README.md
 ├── LICENSE.md
 ├── CITATION.cff
-├── data/
-│   ├── coded_csv/
-│   ├── final_dataset/
-│   └── per_study_notes/
-├── exports/
-│   └── pdf_views/
+├── coded_csv/
+├── final_dataset/
+├── search_screening/
 ├── docs/
+├── exports/
 ├── metadata/
-└── scripts/
+├── ocr_text_by_screenshot/
+├── scripts/
+├── per_study_notes_all_coding_pass.zip
+├── search_source_database_exports.zip
+└── search_screenshots.zip
 ```
 
 ## Data files
