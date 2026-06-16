@@ -46,7 +46,7 @@ fairness-requirements-slr-replication-package/
 
 Notes:
 - `final_dataset/fairness_slr_results.xlsx` is the workbook-style extraction database supplied with the package.
-- `coded_csv/RQ1_levels.csv`, `data/coded_csv/RQ2_operationalization.csv`, and `data/coded_csv/RQ3_overtime.csv` provide RQ-specific analysis views.
+- `coded_csv/RQ1_levels.csv`, `coded_csv/RQ2_operationalization.csv`, and `coded_csv/RQ3_overtime.csv` provide RQ-specific analysis views.
 - Some raw CSV exports preserve earlier coding-pass records; the manuscript's final analytical corpus is **107 studies**. The package keeps the raw exports transparent rather than silently deleting records.
 
 ## PDF exports
