@@ -115,7 +115,7 @@ Analyzes fairness as multi-stakeholder trade-offs in requirements assignment usi
 
 ### Reviewer coding note
 
-Provided excerpt describes multi-customer requirements fairness analysis using multi-objective optimisation (search-based) to explore trade-offs among customers (NRP/release planning); validated on real-world datasets (Motorola handset requirements with 4 service-provider customers) and stress-test datasets. No monitoring/revision lifecycle aspects described. Note: the pasted excerpt appears to match Finkelstein et al. RE’08 (DOI 10.1109/RE.2008.61) even though this row's Citation key is Torralba2011.
+Multi-customer requirements fairness analysis using multi-objective optimisation (search-based) to explore trade-offs among customers (NRP/release planning); validated on real-world datasets (Motorola handset requirements with 4 service-provider customers) and stress-test datasets. No monitoring/revision lifecycle aspects described on the paper. 
 
 ---
 
